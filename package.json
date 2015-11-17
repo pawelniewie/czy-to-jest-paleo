@@ -1,7 +1,6 @@
 {
-  "name": "globalize-so-what-cha-want",
-  "version": "0.10.0",
-  "description": "Tell me what Globalize 1.x modules you want to use, I'll tell you what you need.",
+  "name": "czy-to-jest-paleo",
+  "version": "0.0.1",
   "main": "index.js",
   "scripts": {
     "test": "karma start --reporters mocha,junit --single-run --browsers PhantomJS",
@@ -11,20 +10,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/johnnyreilly/globalize-so-what-cha-want.git"
+    "url": "git+https://github.com/pawelniewie/czy-to-jest-paleo.git"
   },
   "keywords": [
-    "Globalize",
-    "globalization",
-    "internationalization",
     "typescript"
   ],
-  "author": "John Reilly",
+  "author": "Pawel Niewiadomski",
   "license": "MIT",
-  "bugs": {
-    "url": "https://github.com/johnnyreilly/globalize-so-what-cha-want/issues"
-  },
-  "homepage": "https://github.com/johnnyreilly/globalize-so-what-cha-want#readme",
+  "homepage": "https://github.com/pawelniewie/czy-to-jest-paleo",
   "devDependencies": {
     "babel": "^5.8.23",
     "babel-core": "^5.8.25",

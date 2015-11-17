@@ -1,17 +1,17 @@
 /* eslint-disable no-var, strict, prefer-arrow-callback */
 'use strict';
 
-var gulp = require('gulp');
-var gutil = require('gulp-util');
-var connect = require('gulp-connect');
-var eslint = require('gulp-eslint');
-var webpack = require('./gulp/webpack');
-var staticFiles = require('./gulp/staticFiles');
-var tests = require('./gulp/tests');
-var clean = require('./gulp/clean');
-var inject = require('./gulp/inject');
+const gulp = require('gulp');
+const gutil = require('gulp-util');
+const connect = require('gulp-connect');
+const eslint = require('gulp-eslint');
+const webpack = require('./gulp/webpack');
+const staticFiles = require('./gulp/staticFiles');
+const tests = require('./gulp/tests');
+const clean = require('./gulp/clean');
+const inject = require('./gulp/inject');
 
-var lintSrcs = ['./gulp/**/*.js'];
+const lintSrcs = ['./gulp/**/*.js'];
 
 gulp.task('delete-dist', function (done) {
   clean.run(done);
