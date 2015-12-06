@@ -8,7 +8,10 @@ interface FoodDescription {
 }
 
 interface FoodsState {
+  whatFood: string;
   foods: Array<FoodDescription>;
 }
 
 export default FoodsState;
+
+export FoodDescription;

@@ -18,16 +18,16 @@
         "../typings/node/node.d.ts",
         "../typings/react/react.d.ts",
         "../typings/tsd.d.ts",
-        "actions/GreetingActions.ts",
+        "actions/FoodsActions.ts",
         "components/App.tsx",
-        "components/WhoToGreet.tsx",
-        "constants/action-types/GreetingActionTypes.ts",
+        "components/WhatFoodToFind.tsx",
+        "constants/action-types/FoodsActionTypes.ts",
         "dependencies.ts",
         "dispatcher/AppDispatcher.ts",
         "main.tsx",
         "stores/FluxStore.ts",
-        "stores/GreetingStore.ts",
-        "types/GreetingState.ts"
+        "stores/FoodsStore.ts",
+        "types/FoodsState.ts"
     ],
     "exclude": []
 }

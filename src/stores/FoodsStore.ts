@@ -1,18 +1,26 @@
 import FluxStore from './FluxStore';
-import GreetingActionTypes from '../constants/action-types/GreetingActionTypes';
+import FoodsActionTypes from '../constants/action-types/FoodsActionTypes';
 import AppDispatcher from '../dispatcher/AppDispatcher';
 import FoodsState from '../types/FoodsState';
 
 class FoodsStore extends FluxStore<FoodsState> {
   constructor(dispatcher) {
-    super(dispatcher, () => ([{
-          foods: [
-            {
-              question: 'Czy jabłka są paleo?',
-              answer:  'tak'
-            }
-          ]
-        }]));
+    super(dispatcher, () => ({
+      whatFood: '',
+      foods: [
+      {
+        question: 'Czy jabłka są paleo?',
+        answer: 'tak'
+      },
+      {
+        question: 'Czy marchewki są paleo?',
+        answer: 'tak'
+      },
+      {
+        question: 'Czy arbuz jest paleo?',
+        answer: 'tak'
+      }]
+    }));
   }
 
   getState() {
@@ -21,10 +29,10 @@ class FoodsStore extends FluxStore<FoodsState> {
 
   _onDispatch(action) {
     switch(action.type) {
-      case GreetingActionTypes.TARGET_OF_GREETING_CHANGED:
-        this._state.targetOfGreeting = action.targetOfGreeting;
-        this.emitChange();
-        break;
+      case FoodsActionTypes.FOOD_CHANGED:
+      this._state.whatFood = action.food;
+      this.emitChange();
+      break;
     }
   }
 }

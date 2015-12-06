@@ -1,18 +1,13 @@
 import * as React from 'react/addons';
 
-import * as GreetingActions from '../actions/GreetingActions';
-import GreetingStore from '../stores/GreetingStore';
-import GreetingState from '../types/GreetingState';
-
 import * as FoodsActions from '../actions/FoodsActions';
 import FoodsStore from '../stores/FoodsStore';
 import FoodsState from '../types/FoodsState';
 
-import WhoToGreet from './WhoToGreet';
+import WhatFoodToFind from './WhatFoodToFind';
 import FoodsList from './FoodsList';
 
 interface AppState {
-  greeting: GreetingState;
   foods: FoodsState;  
 }
 
@@ -23,23 +18,19 @@ class App extends React.Component<any, AppState> {
   }
 
   componentWillMount() {
-    GreetingStore.addChangeListener(this._onChange);
     FoodsStore.addChangeListener(this._onChange);
   }
 
   componentWillUnmount() {
-    GreetingStore.removeChangeListener(this._onChange);
     FoodsStore.removeChangeListener(this._onChange);
   }
 
   render() {
-    const { greeting } = this.state;
+    const { foods } = this.state;
     return (
       <div className="container-fluid">
-        <h1>Hello { greeting.targetOfGreeting }</h1>
-
-        <WhoToGreet targetOfGreeting={ greeting.targetOfGreeting } />
-        <FoodsList targetOfGreeting={ greeting.targetOfGreeting } />
+        <WhatFoodToFind whatFood={ foods.whatFood } />
+        <FoodsList whatFood={ foods.whatFood } foods={ foods.foods } />
       </div>
     );
   }
@@ -50,7 +41,6 @@ class App extends React.Component<any, AppState> {
 
   _getStateFromStores() {
     return {
-      greeting: GreetingStore.getState(),
       foods: FoodsStore.getState()
     }
   }

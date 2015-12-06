@@ -1,8 +1,10 @@
 import * as React from 'react/addons';
-import * as GreetingActions from '../actions/GreetingActions';
+import * as FoodsActions from '../actions/FoodsActions';
+import * as Foods from '../types/FoodsState';
 
 interface Props {
-  targetOfGreeting: string;
+  whatFood: string;
+  foods: Array<Foods.FoodDescription>;
 }
 
 class FoodsList extends React.Component<Props, any> {
@@ -11,18 +13,26 @@ class FoodsList extends React.Component<Props, any> {
   }
 
   static propTypes: React.ValidationMap<Props> = {
-    targetOfGreeting: React.PropTypes.string.isRequired
+    whatFood: React.PropTypes.string.isRequired
   }
 
-  render() {
+  render(): JSX.Element {
+    const foods = this.props.foods;
+    const whatFood = this.props.whatFood || '';
+
+    var list = foods.filter(function(food) {
+      return whatFood === '' || food.question.toLowerCase().indexOf(whatFood.toLowerCase()) > 0;
+    }).map((food) => {
+      return (
+        <div key={food.question}>{food.question}</div>
+        );
+    });
+
     return (
-      <input type="text" value={ this.props.targetOfGreeting } onChange={ this._handleTargetOfGreetingChange } />
+      <div>
+        {list}
+      </div>
     );
-  }
-
-  _handleTargetOfGreetingChange = (event) => {
-    const { target: { value: targetOfGreeting } } = event;
-    GreetingActions.greetingChanged(targetOfGreeting);
   }
 }
 

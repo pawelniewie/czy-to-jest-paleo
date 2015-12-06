@@ -1,37 +1,37 @@
 import * as React from 'react/addons';
-import WhoToGreet from '../../src/components/WhoToGreet';
-import * as GreetingActions from '../../src/actions/GreetingActions';
+import WhatFoodToFind from '../../src/components/WhatFoodToFind';
+import * as FoodsActions from '../../src/actions/FoodsActions';
 
 const { TestUtils } = React.addons;
 
-describe('WhoToGreet', () => {
+describe('WhatFoodToFind', () => {
   let handleSelectionChangeSpy: jasmine.Spy;
   beforeEach(() => {
     handleSelectionChangeSpy = jasmine.createSpy('handleSelectionChange');
   });
 
-  it('given a targetOfGreeting of \'Benjamin\' then it renders an input containing that text', () => {
-    const targetOfGreeting = 'Benjamin';
-    const whoToGreet = render({ targetOfGreeting });
+  it('given a whatFood of \'Benjamin\' then it renders an input containing that text', () => {
+    const whatFood = 'Benjamin';
+    const whatFoodToFind = render({ whatFood });
 
-    expect(whoToGreet.type).toBe('input');
-    expect(whoToGreet.props.type).toBe('text');
-    expect(whoToGreet.props.value).toBe(targetOfGreeting);
+    expect(whatFoodToFind.type).toBe('input');
+    expect(whatFoodToFind.props.type).toBe('text');
+    expect(whatFoodToFind.props.value).toBe(whatFood);
   });
 
-  it('onChange triggers a greetingChanged action', () => {
-    const targetOfGreeting = 'Benjamin';
-    const whoToGreet = render({ targetOfGreeting });
-    spyOn(GreetingActions, 'greetingChanged');
+  it('onChange triggers a foodChanged action', () => {
+    const whatFood = 'Benjamin';
+    const whatFoodToFind = render({ whatFood });
+    spyOn(FoodsActions, 'foodChanged');
 
-    whoToGreet.props.onChange({ target: { value: targetOfGreeting }});
+    whatFoodToFind.props.onChange({ target: { value: whatFood }});
 
-    expect(GreetingActions.greetingChanged).toHaveBeenCalledWith(targetOfGreeting);
+    expect(FoodsActions.foodChanged).toHaveBeenCalledWith(whatFood);
   });
 
-  function render({ targetOfGreeting }) {
+  function render({ whatFood }) {
     const shallowRenderer = TestUtils.createRenderer();
-    shallowRenderer.render(<WhoToGreet targetOfGreeting={ targetOfGreeting } />);
+    shallowRenderer.render(<WhatFoodToFind whatFood={ whatFood } />);
     return shallowRenderer.getRenderOutput();
   }
 });
