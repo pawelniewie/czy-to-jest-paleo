@@ -1,17 +1,13 @@
-enum Answer {
-  Yes, No, Maybe
+export enum Answer {
+	Yes, No, Maybe
 }
 
-interface FoodDescription {
-  question: string;
-  answer: Answer;
+export interface FoodDescription {
+	question: string;
+	answer: Answer;
 }
 
-interface FoodsState {
-  whatFood: string;
-  foods: Array<FoodDescription>;
-}
-
-export default FoodsState;
-
-export FoodDescription;
+export interface FoodsState {
+	whatFood: string;
+	foods: Array<FoodDescription>;
+}	

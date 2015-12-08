@@ -2,7 +2,7 @@ import * as React from 'react/addons';
 
 import * as FoodsActions from '../actions/FoodsActions';
 import FoodsStore from '../stores/FoodsStore';
-import FoodsState from '../types/FoodsState';
+import { FoodsState } from '../types/FoodsState';
 
 import WhatFoodToFind from './WhatFoodToFind';
 import FoodsList from './FoodsList';

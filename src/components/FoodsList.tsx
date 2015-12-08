@@ -1,6 +1,7 @@
 import * as React from 'react/addons';
 import * as FoodsActions from '../actions/FoodsActions';
 import * as Foods from '../types/FoodsState';
+import Food from './Food';
 
 interface Props {
   whatFood: string;
@@ -21,10 +22,11 @@ class FoodsList extends React.Component<Props, any> {
     const whatFood = this.props.whatFood || '';
 
     var list = foods.filter(function(food) {
+      if (food.question === undefined) { debugger; };
       return whatFood === '' || food.question.toLowerCase().indexOf(whatFood.toLowerCase()) > 0;
     }).map((food) => {
       return (
-        <div key={food.question}>{food.question}</div>
+        <Food food={food}/>
         );
     });
 
