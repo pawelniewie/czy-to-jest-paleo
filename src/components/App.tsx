@@ -29,7 +29,10 @@ class App extends React.Component<any, AppState> {
     const { foods } = this.state;
     return (
       <div className="container-fluid">
-        <WhatFoodToFind whatFood={ foods.whatFood } />
+        <div className="block-center">
+          <h3>Czy to jest Paleo?</h3>
+          <WhatFoodToFind whatFood={ foods.whatFood } />
+        </div>
         <FoodsList whatFood={ foods.whatFood } foods={ foods.foods } />
       </div>
     );

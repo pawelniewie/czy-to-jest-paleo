@@ -16,7 +16,13 @@ class WhatFoodToFind extends React.Component<Props, any> {
 
   render() {
     return (
-      <input type="text" value={ this.props.whatFood } onChange={ this._handleWhatFoodChange } />
+      <form className="form-inline">
+        <div className="form-group">
+          <label className="sr-only" htmlFor="what-food">Wpisz nazwę jedzenia</label>
+          <input type="text" className="form-control input-lg" value={ this.props.whatFood } 
+            onChange={ this._handleWhatFoodChange } placeholder="Wpisz i sprawdź" id="what-food"/>
+        </div>
+      </form>
     );
   }
 
