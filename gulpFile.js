@@ -7,12 +7,10 @@ const connect = require('gulp-connect');
 const eslint = require('gulp-eslint');
 const webpack = require('./gulp/webpack');
 const staticFiles = require('./gulp/staticFiles');
+const cssFiles = require('./gulp/cssFiles');
 const tests = require('./gulp/tests');
 const clean = require('./gulp/clean');
 const inject = require('./gulp/inject');
-const sass = require('gulp-sass');
-const concat = require('gulp-concat');
-const rev = require('gulp-rev');
 
 const lintSrcs = ['./gulp/**/*.js'];
 
@@ -29,11 +27,7 @@ gulp.task('build-js', ['delete-dist', 'build-process.env.NODE_ENV'], function(do
 });
 
 gulp.task('build-css', ['delete-dist', 'build-process.env.NODE_ENV'], function() {
-  gulp.src('./src/styles/**/*.scss')
-    .pipe(sass({outputStyle: 'compressed'}).on('error', sass.logError))
-    .pipe(concat('main.css'))
-    .pipe(rev())
-    .pipe(gulp.dest('./dist/styles'));
+  cssFiles.build();
 });
 
 gulp.task('build-other', ['delete-dist', 'build-process.env.NODE_ENV'], function() {
@@ -50,15 +44,11 @@ gulp.task('lint', function () {
     .pipe(eslint.format());
 });
 
-gulp.task('sass:watch', function () {
-  gulp.watch('./src/styles/**/*.scss', ['build-css']);
-});
-
-gulp.task('watch', ['delete-dist', 'sass:watch'], function() {
+gulp.task('watch', ['delete-dist'], function() {
   process.env.NODE_ENV = 'development';
   Promise.all([
-    webpack.watch()//,
-    // less.watch()
+    webpack.watch(),
+    cssFiles.watch()
   ]).then(function() {
     gutil.log('Now that initial assets (js and css) are generated inject will start...');
     inject.watch();
