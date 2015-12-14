@@ -45,7 +45,7 @@ class FoodsList extends React.Component<Props, any> {
     };
 
     return (
-      <div>
+      <div className="food-list">
         {rows}
       </div>
     );

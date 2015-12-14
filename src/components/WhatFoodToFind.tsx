@@ -16,7 +16,7 @@ class WhatFoodToFind extends React.Component<Props, any> {
 
   render() {
     return (
-      <form className="form-inline">
+      <form className="form-inline what-to-find">
         <div className="form-group">
           <label className="sr-only" htmlFor="what-food">Wpisz nazwę jedzenia</label>
           <input type="text" className="form-control input-lg" value={ this.props.whatFood } 
