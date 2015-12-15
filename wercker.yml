@@ -1,0 +1,11 @@
+box: node
+build:
+  steps:
+    - npm install
+    - gulp build
+
+deploy:
+  steps:
+    - uetchy/gh-pages:
+        token: $GITHUB_TOKEN
+        path: dist
