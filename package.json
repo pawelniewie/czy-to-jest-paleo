@@ -56,6 +56,7 @@
     "phantomjs": "^1.9.17",
     "react": "^0.13.3",
     "ts-loader": "^0.6.0",
+    "tsd": "^0.6.5",
     "typescript": "^1.6.2",
     "webpack": "^1.12.2",
     "webpack-notifier": "^1.2.1"
