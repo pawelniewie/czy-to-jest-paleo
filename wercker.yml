@@ -1,8 +1,9 @@
 box: node
 build:
   steps:
-    - npm install
-    - gulp build
+    - npm-install
+    - hgen/gulp:
+        tasks: build
 
 deploy:
   steps:
