@@ -2,6 +2,7 @@ box: nodesource/node
 build:
   steps:
     - npm-install
+    - samverschueren/tsd-install
     - hgen/gulp:
         tasks: build
 
