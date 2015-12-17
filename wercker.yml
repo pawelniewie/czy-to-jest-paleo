@@ -10,6 +10,6 @@ build:
 
 deploy:
   steps:
-    - matsen/gh-pages:
+    - uetchy/gh-pages:
         token: $GITHUB_TOKEN
         path: dist
