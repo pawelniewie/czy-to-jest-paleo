@@ -1,12 +1,15 @@
 import * as React from 'react/addons';
+import * as PureRenderMixin from 'react-addons-pure-render-mixin';
 import * as Foods from '../types/FoodsState';
-import classNames from 'classnames';
+import * as classNames from 'classnames';
 
 interface Props {
   food: Foods.FoodDescription;
 }
 
 class Food extends React.Component<Props, any> {
+  static mixins = [PureRenderMixin];
+
   constructor(props) {
     super(props);
   }
