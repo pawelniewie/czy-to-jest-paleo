@@ -1,4 +1,4 @@
-import * as React from 'react/addons';
+import * as React from 'react';
 
 import * as FoodsActions from '../actions/FoodsActions';
 import FoodsStore from '../stores/FoodsStore';

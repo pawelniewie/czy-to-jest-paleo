@@ -9,7 +9,9 @@ module.exports = {
   entry: {
     main: './src/main.tsx',
     vendor: [
-      'react/addons',
+      'react/react',
+      'react-dom',
+      'react-addons-pure-render-mixin',
       'flux',
       'events',
       'babel/polyfill'

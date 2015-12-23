@@ -15,8 +15,8 @@ function buildCss(options) {
 		    .pipe(concat('main.css'));
 
 		if (!options.shouldWatch) {
-			sassStream = sassStream.pipe(rev())
-		};
+			sassStream = sassStream.pipe(rev());
+		}
 
 		return sassStream
 		    .pipe(gulp.dest('./dist/styles'));
