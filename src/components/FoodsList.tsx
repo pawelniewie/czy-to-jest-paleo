@@ -1,6 +1,7 @@
 import * as React from 'react';
 import * as FoodsActions from '../actions/FoodsActions';
 import * as Foods from '../types/FoodsState';
+import classNames from 'classnames';
 import Food from './Food';
 
 interface Props {
@@ -26,27 +27,17 @@ class FoodsList extends React.Component<Props, any> {
       return whatFood === '' || food.question.toLowerCase().indexOf(whatFood.toLowerCase()) > 0;
     }).map((food) => {
       return (
-          <Food key={food.question} food={food}/>
+          <Food food={food}/>
         );
     });
 
-    var rows = [], accu = [];
-    for (var i = 0; i < list.length; ++i) {
-      accu.push(
-        (<div key={'col-' + i} className="col-md-6 col-lg-3">{ list[i]}</div>)
-      );
-      
-      if ((i + 1) % 4 == 0) {
-        rows.push(
-          (<div key={'row-' + i} className="row">{accu}</div>)
-        );
-        accu = [];
-      }
-    };
+    var divClass = classNames({
+      'food-list': true
+    });
 
     return (
-      <div className="food-list">
-        {rows}
+      <div className={divClass}>
+        {list}
       </div>
     );
   }

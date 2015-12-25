@@ -31,10 +31,12 @@ class Food extends React.Component<Props, any> {
     })
 
     return (
-      <div className="panel panel-default">
-        <div className="panel-body">
-          {food.question}
-          <span className={spanClass}>{spanText}</span>
+      <div className="food">
+        <div className="panel panel-default">
+          <div className="panel-body">
+            {food.question}
+            <span className={spanClass}>{spanText}</span>
+          </div>
         </div>
       </div>
     );
