@@ -12,6 +12,7 @@ module.exports = {
       'react/react',
       'react-dom',
       'react-addons-pure-render-mixin',
+      'react-mixin',
       'flux',
       'events',
       'babel/polyfill'
