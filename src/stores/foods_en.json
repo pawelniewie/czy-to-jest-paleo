@@ -1,0 +1,2494 @@
+[
+  {
+    "question": "Are Almonds Paleo?",
+    "answer": "yes"
+  },
+  {
+    "question": "Are Anaheim Peppers Paleo?",
+    "answer": "yes"
+  },
+  {
+    "question": "Are Anchovies Paleo?",
+    "answer": "yes"
+  },
+  {
+    "question": "Are Apples Paleo?",
+    "answer": "yes"
+  },
+  {
+    "question": "Are Apricot Kernels Paleo?",
+    "answer": "no"
+  },
+  {
+    "question": "Are Apricots Paleo?",
+    "answer": "yes"
+  },
+  {
+    "question": "Are Artichokes Paleo?",
+    "answer": "yes"
+  },
+  {
+    "question": "Are Avocados Paleo?",
+    "answer": "yes"
+  },
+  {
+    "question": "Are Bagels Paleo?",
+    "answer": "no"
+  },
+  {
+    "question": "Are Bamboo Shoots Paleo?",
+    "answer": "yes"
+  },
+  {
+    "question": "Are Banana Peppers Paleo?",
+    "answer": "yes"
+  },
+  {
+    "question": "Are Bananas Paleo?",
+    "answer": "yes"
+  },
+  {
+    "question": "Are Bean Sprouts Paleo?",
+    "answer": "maybe"
+  },
+  {
+    "question": "Are Beans Paleo?",
+    "answer": "no"
+  },
+  {
+    "question": "Are Beets Paleo?",
+    "answer": "yes"
+  },
+  {
+    "question": "Are Bell Peppers Paleo?",
+    "answer": "yes"
+  },
+  {
+    "question": "Are Biscuits Paleo?",
+    "answer": "no"
+  },
+  {
+    "question": "Are Black Beans Paleo?",
+    "answer": "no"
+  },
+  {
+    "question": "Are Black Radishes Paleo?",
+    "answer": "yes"
+  },
+  {
+    "question": "Are Black-Eyed Peas Paleo?",
+    "answer": "no"
+  },
+  {
+    "question": "Are Blackberries Paleo?",
+    "answer": "yes"
+  },
+  {
+    "question": "Are Blueberries Paleo?",
+    "answer": "yes"
+  },
+  {
+    "question": "Are Bones Paleo?",
+    "answer": "yes"
+  },
+  {
+    "question": "Are Brazil Nuts Paleo?",
+    "answer": "yes"
+  },
+  {
+    "question": "Are Brown Mustard Seeds Paleo?",
+    "answer": "yes"
+  },
+  {
+    "question": "Are Brownies Paleo?",
+    "answer": "no"
+  },
+  {
+    "question": "Are Brussels Sprouts Paleo?",
+    "answer": "yes"
+  },
+  {
+    "question": "Are Cacao Nibs Paleo?",
+    "answer": "yes"
+  },
+  {
+    "question": "Are Cape Gooseberries Paleo?",
+    "answer": "yes"
+  },
+  {
+    "question": "Are Capers Paleo?",
+    "answer": "yes"
+  },
+  {
+    "question": "Are Carrots Paleo?",
+    "answer": "yes"
+  },
+  {
+    "question": "Are Cashews Paleo?",
+    "answer": "yes"
+  },
+  {
+    "question": "Are Cheerios Paleo?",
+    "answer": "no"
+  },
+  {
+    "question": "Are Cherries Paleo?",
+    "answer": "yes"
+  },
+  {
+    "question": "Are Chestnuts Paleo?",
+    "answer": "yes"
+  },
+  {
+    "question": "Are Chia Seeds Paleo?",
+    "answer": "yes"
+  },
+  {
+    "question": "Are Chickpeas Paleo?",
+    "answer": "no"
+  },
+  {
+    "question": "Are Chili Peppers Paleo?",
+    "answer": "yes"
+  },
+  {
+    "question": "Are Chitosan Paleo?",
+    "answer": "yes"
+  },
+  {
+    "question": "Are Chives Paleo?",
+    "answer": "yes"
+  },
+  {
+    "question": "Are Chocolate Chips Paleo?",
+    "answer": "maybe"
+  },
+  {
+    "question": "Are Cipolla Onions Paleo?",
+    "answer": "yes"
+  },
+  {
+    "question": "Are Clams Paleo?",
+    "answer": "yes"
+  },
+  {
+    "question": "Are Clementines Paleo?",
+    "answer": "yes"
+  },
+  {
+    "question": "Are Cloves Paleo?",
+    "answer": "yes"
+  },
+  {
+    "question": "Are Coconut Aminos Paleo?",
+    "answer": "yes"
+  },
+  {
+    "question": "Are Coconut Flakes Paleo?",
+    "answer": "yes"
+  },
+  {
+    "question": "Are Collard Greens Paleo?",
+    "answer": "yes"
+  },
+  {
+    "question": "Are Cookies Paleo?",
+    "answer": "no"
+  },
+  {
+    "question": "Are Corn Husks Paleo?",
+    "answer": "yes"
+  },
+  {
+    "question": "Are Crackers Paleo?",
+    "answer": "no"
+  },
+  {
+    "question": "Are Cranberries Paleo?",
+    "answer": "yes"
+  },
+  {
+    "question": "Are Croissants Paleo?",
+    "answer": "no"
+  },
+  {
+    "question": "Are Croutons Paleo?",
+    "answer": "no"
+  },
+  {
+    "question": "Are Cubanelle Peppers Paleo?",
+    "answer": "yes"
+  },
+  {
+    "question": "Are Cucumbers Paleo?",
+    "answer": "yes"
+  },
+  {
+    "question": "Are Cupcakes Paleo?",
+    "answer": "no"
+  },
+  {
+    "question": "Are Currants Paleo?",
+    "answer": "yes"
+  },
+  {
+    "question": "Are Daikon Radishes Paleo?",
+    "answer": "yes"
+  },
+  {
+    "question": "Are Dandelion Greens Paleo?",
+    "answer": "yes"
+  },
+  {
+    "question": "Are Dates Paleo?",
+    "answer": "yes"
+  },
+  {
+    "question": "Are Donuts Paleo?",
+    "answer": "no"
+  },
+  {
+    "question": "Are Doughnuts Paleo?",
+    "answer": "no"
+  },
+  {
+    "question": "Are Eggs Paleo?",
+    "answer": "yes"
+  },
+  {
+    "question": "Are Energy Drinks Paleo?",
+    "answer": "no"
+  },
+  {
+    "question": "Are English Muffins Paleo?",
+    "answer": "no"
+  },
+  {
+    "question": "Are Figs Paleo?",
+    "answer": "yes"
+  },
+  {
+    "question": "Are Flax Seeds Paleo?",
+    "answer": "yes"
+  },
+  {
+    "question": "Are French Fries Paleo?",
+    "answer": "no"
+  },
+  {
+    "question": "Are Garbanzo Beans Paleo?",
+    "answer": "no"
+  },
+  {
+    "question": "Are Garlic Scapes Paleo?",
+    "answer": "yes"
+  },
+  {
+    "question": "Are Goji Berries Paleo?",
+    "answer": "yes"
+  },
+  {
+    "question": "Are Gooseberries Paleo?",
+    "answer": "yes"
+  },
+  {
+    "question": "Are Grape Leaves Paleo?",
+    "answer": "yes"
+  },
+  {
+    "question": "Are Grapes Paleo?",
+    "answer": "yes"
+  },
+  {
+    "question": "Are Green Beans Paleo?",
+    "answer": "maybe"
+  },
+  {
+    "question": "Are Green Onions Paleo?",
+    "answer": "yes"
+  },
+  {
+    "question": "Are Guajillo Peppers Paleo?",
+    "answer": "yes"
+  },
+  {
+    "question": "Are Guavas Paleo?",
+    "answer": "yes"
+  },
+  {
+    "question": "Are Hazelnuts Paleo?",
+    "answer": "yes"
+  },
+  {
+    "question": "Are Herbs Paleo?",
+    "answer": "yes"
+  },
+  {
+    "question": "Are Hot Pockets Paleo?",
+    "answer": "no"
+  },
+  {
+    "question": "Are Jalapeño Peppers Paleo?",
+    "answer": "yes"
+  },
+  {
+    "question": "Are Kidney Beans Paleo?",
+    "answer": "no"
+  },
+  {
+    "question": "Are Kiwis Paleo?",
+    "answer": "yes"
+  },
+  {
+    "question": "Are Leeks Paleo?",
+    "answer": "yes"
+  },
+  {
+    "question": "Are Legumes Paleo?",
+    "answer": "no"
+  },
+  {
+    "question": "Are Lemons Paleo?",
+    "answer": "yes"
+  },
+  {
+    "question": "Are Limes Paleo?",
+    "answer": "yes"
+  },
+  {
+    "question": "Are Lotus Roots Paleo?",
+    "answer": "yes"
+  },
+  {
+    "question": "Are Lychees Paleo?",
+    "answer": "yes"
+  },
+  {
+    "question": "Are Macadamia Nuts Paleo?",
+    "answer": "yes"
+  },
+  {
+    "question": "Are Mangoes Paleo?",
+    "answer": "yes"
+  },
+  {
+    "question": "Are Marshmallows Paleo?",
+    "answer": "no"
+  },
+  {
+    "question": "Are Micro Greens Paleo?",
+    "answer": "yes"
+  },
+  {
+    "question": "Are Milkshakes Paleo?",
+    "answer": "no"
+  },
+  {
+    "question": "Are Muffins Paleo?",
+    "answer": "no"
+  },
+  {
+    "question": "Are Mushrooms Paleo?",
+    "answer": "yes"
+  },
+  {
+    "question": "Are Mussels Paleo?",
+    "answer": "yes"
+  },
+  {
+    "question": "Are Mustard Greens Paleo?",
+    "answer": "yes"
+  },
+  {
+    "question": "Are Nectarines Paleo?",
+    "answer": "yes"
+  },
+  {
+    "question": "Are Nightshades Paleo?",
+    "answer": "yes"
+  },
+  {
+    "question": "Are Nuts Paleo?",
+    "answer": "yes"
+  },
+  {
+    "question": "Are Olives Paleo?",
+    "answer": "yes"
+  },
+  {
+    "question": "Are Onions Paleo?",
+    "answer": "yes"
+  },
+  {
+    "question": "Are Oranges Paleo?",
+    "answer": "yes"
+  },
+  {
+    "question": "Are Oysters Paleo?",
+    "answer": "yes"
+  },
+  {
+    "question": "Are Pancakes Paleo?",
+    "answer": "no"
+  },
+  {
+    "question": "Are Parsnips Paleo?",
+    "answer": "yes"
+  },
+  {
+    "question": "Are Pastries Paleo?",
+    "answer": "no"
+  },
+  {
+    "question": "Are Peaches Paleo?",
+    "answer": "yes"
+  },
+  {
+    "question": "Are Peanuts Paleo?",
+    "answer": "no"
+  },
+  {
+    "question": "Are Pears Paleo?",
+    "answer": "yes"
+  },
+  {
+    "question": "Are Peas Paleo?",
+    "answer": "maybe"
+  },
+  {
+    "question": "Are Pecans Paleo?",
+    "answer": "yes"
+  },
+  {
+    "question": "Are Pepitas Paleo?",
+    "answer": "yes"
+  },
+  {
+    "question": "Are Peppadew Paleo?",
+    "answer": "yes"
+  },
+  {
+    "question": "Are Peppers Paleo?",
+    "answer": "yes"
+  },
+  {
+    "question": "Are Persimmons Paleo?",
+    "answer": "yes"
+  },
+  {
+    "question": "Are Pickles Paleo?",
+    "answer": "yes"
+  },
+  {
+    "question": "Are Pine Nuts Paleo?",
+    "answer": "yes"
+  },
+  {
+    "question": "Are Pinto Beans Paleo?",
+    "answer": "no"
+  },
+  {
+    "question": "Are Pistachios Paleo?",
+    "answer": "yes"
+  },
+  {
+    "question": "Are Plantains Paleo?",
+    "answer": "yes"
+  },
+  {
+    "question": "Are Plums Paleo?",
+    "answer": "yes"
+  },
+  {
+    "question": "Are Pluots Paleo?",
+    "answer": "yes"
+  },
+  {
+    "question": "Are Poblano Peppers Paleo?",
+    "answer": "yes"
+  },
+  {
+    "question": "Are Pomegranates Paleo?",
+    "answer": "yes"
+  },
+  {
+    "question": "Are Pop Tarts Paleo?",
+    "answer": "no"
+  },
+  {
+    "question": "Are Poppy Seeds Paleo?",
+    "answer": "yes"
+  },
+  {
+    "question": "Are Potato Chips Paleo?",
+    "answer": "no"
+  },
+  {
+    "question": "Are Prawns Paleo?",
+    "answer": "yes"
+  },
+  {
+    "question": "Are Pretzels Paleo?",
+    "answer": "no"
+  },
+  {
+    "question": "Are Pumpkin Seeds Paleo?",
+    "answer": "yes"
+  },
+  {
+    "question": "Are Purple Potatoes Paleo?",
+    "answer": "maybe"
+  },
+  {
+    "question": "Are Radishes Paleo?",
+    "answer": "yes"
+  },
+  {
+    "question": "Are Raisins Paleo?",
+    "answer": "yes"
+  },
+  {
+    "question": "Are Ramps Paleo?",
+    "answer": "yes"
+  },
+  {
+    "question": "Are Raspberries Paleo?",
+    "answer": "yes"
+  },
+  {
+    "question": "Are Red Onions Paleo?",
+    "answer": "yes"
+  },
+  {
+    "question": "Are Red Pepper Flakes Paleo?",
+    "answer": "yes"
+  },
+  {
+    "question": "Are Red Potatoes Paleo?",
+    "answer": "maybe"
+  },
+  {
+    "question": "Are Refried Beans Paleo?",
+    "answer": "no"
+  },
+  {
+    "question": "Are Ribs Paleo?",
+    "answer": "yes"
+  },
+  {
+    "question": "Are Rutabagas Paleo?",
+    "answer": "yes"
+  },
+  {
+    "question": "Are S’mores Paleo?",
+    "answer": "no"
+  },
+  {
+    "question": "Are Sacha Inchi Seeds Paleo?",
+    "answer": "yes"
+  },
+  {
+    "question": "Are Salad Turnips Paleo?",
+    "answer": "yes"
+  },
+  {
+    "question": "Are Sandwiches Paleo?",
+    "answer": "no"
+  },
+  {
+    "question": "Are Sardines Paleo?",
+    "answer": "yes"
+  },
+  {
+    "question": "Are Savory Leaves Paleo?",
+    "answer": "yes"
+  },
+  {
+    "question": "Are Scallions Paleo?",
+    "answer": "yes"
+  },
+  {
+    "question": "Are Scallops Paleo?",
+    "answer": "yes"
+  },
+  {
+    "question": "Are Scones Paleo?",
+    "answer": "no"
+  },
+  {
+    "question": "Are Seeds Paleo?",
+    "answer": "yes"
+  },
+  {
+    "question": "Are Serrano Peppers Paleo?",
+    "answer": "yes"
+  },
+  {
+    "question": "Are Sesame Seeds Paleo?",
+    "answer": "yes"
+  },
+  {
+    "question": "Are Shallots Paleo?",
+    "answer": "yes"
+  },
+  {
+    "question": "Are Smoothies Paleo?",
+    "answer": "maybe"
+  },
+  {
+    "question": "Are Snails Paleo?",
+    "answer": "yes"
+  },
+  {
+    "question": "Are Spices Paleo?",
+    "answer": "yes"
+  },
+  {
+    "question": "Are Sprouts Paleo?",
+    "answer": "yes"
+  },
+  {
+    "question": "Are Squash Blossoms Paleo?",
+    "answer": "yes"
+  },
+  {
+    "question": "Are Strawberries Paleo?",
+    "answer": "yes"
+  },
+  {
+    "question": "Are Sun-Dried Tomatoes Paleo?",
+    "answer": "yes"
+  },
+  {
+    "question": "Are Sunflower Seeds Paleo?",
+    "answer": "yes"
+  },
+  {
+    "question": "Are Sweet Potato Fries Paleo?",
+    "answer": "maybe"
+  },
+  {
+    "question": "Are Sweet Potatoes Paleo?",
+    "answer": "yes"
+  },
+  {
+    "question": "Are Tacos Paleo?",
+    "answer": "maybe"
+  },
+  {
+    "question": "Are Tamales Paleo?",
+    "answer": "no"
+  },
+  {
+    "question": "Are Tangerines Paleo?",
+    "answer": "yes"
+  },
+  {
+    "question": "Are Tarts Paleo?",
+    "answer": "no"
+  },
+  {
+    "question": "Are Tigernuts Paleo?",
+    "answer": "yes"
+  },
+  {
+    "question": "Are Tomatillos Paleo?",
+    "answer": "yes"
+  },
+  {
+    "question": "Are Tomatoes Paleo?",
+    "answer": "yes"
+  },
+  {
+    "question": "Are Tortillas Paleo?",
+    "answer": "no"
+  },
+  {
+    "question": "Are Turnip Greens Paleo?",
+    "answer": "yes"
+  },
+  {
+    "question": "Are Turnips Paleo?",
+    "answer": "yes"
+  },
+  {
+    "question": "Are Vanilla Beans Paleo?",
+    "answer": "yes"
+  },
+  {
+    "question": "Are Vegetables Paleo?",
+    "answer": "yes"
+  },
+  {
+    "question": "Are Vidalia Onions Paleo?",
+    "answer": "yes"
+  },
+  {
+    "question": "Are Waffles Paleo?",
+    "answer": "no"
+  },
+  {
+    "question": "Are Walnuts Paleo?",
+    "answer": "yes"
+  },
+  {
+    "question": "Are White Onions Paleo?",
+    "answer": "yes"
+  },
+  {
+    "question": "Are White Potatoes Paleo?",
+    "answer": "maybe"
+  },
+  {
+    "question": "Are Whole Grains Paleo?",
+    "answer": "no"
+  },
+  {
+    "question": "Are Yams Paleo?",
+    "answer": "yes"
+  },
+  {
+    "question": "Are Yellow Mustard Seeds Paleo?",
+    "answer": "yes"
+  },
+  {
+    "question": "Are Yellow Onions Paleo?",
+    "answer": "yes"
+  },
+  {
+    "question": "Is Acorn Squash Paleo?",
+    "answer": "yes"
+  },
+  {
+    "question": "Is Agave Nectar Paleo?",
+    "answer": "no"
+  },
+  {
+    "question": "Is Alcohol Paleo?",
+    "answer": "maybe"
+  },
+  {
+    "question": "Is Allspice Paleo?",
+    "answer": "yes"
+  },
+  {
+    "question": "Is Almond Butter Paleo?",
+    "answer": "yes"
+  },
+  {
+    "question": "Is Almond Extract Paleo?",
+    "answer": "yes"
+  },
+  {
+    "question": "Is Almond Flour Paleo?",
+    "answer": "yes"
+  },
+  {
+    "question": "Is Almond Meal Paleo?",
+    "answer": "yes"
+  },
+  {
+    "question": "Is Almond Milk Paleo?",
+    "answer": "maybe"
+  },
+  {
+    "question": "Is Amaranth Paleo?",
+    "answer": "no"
+  },
+  {
+    "question": "Is Animal Skin Paleo?",
+    "answer": "yes"
+  },
+  {
+    "question": "Is Anise Paleo?",
+    "answer": "yes"
+  },
+  {
+    "question": "Is Annatto Paleo?",
+    "answer": "yes"
+  },
+  {
+    "question": "Is Apple Butter Paleo?",
+    "answer": "yes"
+  },
+  {
+    "question": "Is Apple Cider Paleo?",
+    "answer": "yes"
+  },
+  {
+    "question": "Is Apple Cider Vinegard Paleo?",
+    "answer": "yes"
+  },
+  {
+    "question": "Is Apple Pie Spice Paleo?",
+    "answer": "yes"
+  },
+  {
+    "question": "Is Applesauce Paleo?",
+    "answer": "yes"
+  },
+  {
+    "question": "Is Arrowroot Paleo?",
+    "answer": "yes"
+  },
+  {
+    "question": "Is Arugula Paleo?",
+    "answer": "yes"
+  },
+  {
+    "question": "Is Asparagus Paleo?",
+    "answer": "yes"
+  },
+  {
+    "question": "Is Avocado Oil Paleo?",
+    "answer": "yes"
+  },
+  {
+    "question": "Is Bacon Fat/Lard Paleo?",
+    "answer": "yes"
+  },
+  {
+    "question": "Is Bacon Paleo?",
+    "answer": "yes"
+  },
+  {
+    "question": "Is Baking Chocolate Paleo?",
+    "answer": "yes"
+  },
+  {
+    "question": "Is Baking Powder Paleo?",
+    "answer": "yes"
+  },
+  {
+    "question": "Is Baking Soda Paleo?",
+    "answer": "yes"
+  },
+  {
+    "question": "Is Balsamic Vinegar Paleo?",
+    "answer": "yes"
+  },
+  {
+    "question": "Is Banana Flour Paleo?",
+    "answer": "yes"
+  },
+  {
+    "question": "Is Barley Paleo?",
+    "answer": "no"
+  },
+  {
+    "question": "Is Barramundi Paleo?",
+    "answer": "yes"
+  },
+  {
+    "question": "Is Basil Paleo?",
+    "answer": "yes"
+  },
+  {
+    "question": "Is Bay Leaf Paleo?",
+    "answer": "yes"
+  },
+  {
+    "question": "Is BBQ Sauce Paleo?",
+    "answer": "maybe"
+  },
+  {
+    "question": "Is Bee Pollen Paleo?",
+    "answer": "yes"
+  },
+  {
+    "question": "Is Beef Paleo?",
+    "answer": "yes"
+  },
+  {
+    "question": "Is Beer Paleo?",
+    "answer": "no"
+  },
+  {
+    "question": "Is Bison Paleo?",
+    "answer": "yes"
+  },
+  {
+    "question": "Is Bittersweet Chocolate Paleo?",
+    "answer": "yes"
+  },
+  {
+    "question": "Is Black Pepper Paleo?",
+    "answer": "yes"
+  },
+  {
+    "question": "Is Black Tea Paleo?",
+    "answer": "yes"
+  },
+  {
+    "question": "Is Boar Paleo?",
+    "answer": "yes"
+  },
+  {
+    "question": "Is Bok Choy Paleo?",
+    "answer": "yes"
+  },
+  {
+    "question": "Is Bone Broth Paleo?",
+    "answer": "yes"
+  },
+  {
+    "question": "Is Boston Lettuce Paleo?",
+    "answer": "yes"
+  },
+  {
+    "question": "Is Bouquet Garni Paleo?",
+    "answer": "yes"
+  },
+  {
+    "question": "Is Brandy Paleo?",
+    "answer": "maybe"
+  },
+  {
+    "question": "Is Bread Paleo?",
+    "answer": "no"
+  },
+  {
+    "question": "Is Brine Paleo?",
+    "answer": "yes"
+  },
+  {
+    "question": "Is Broccoli Paleo?",
+    "answer": "yes"
+  },
+  {
+    "question": "Is Brown Sugar Paleo?",
+    "answer": "no"
+  },
+  {
+    "question": "Is Buckwheat Paleo?",
+    "answer": "no"
+  },
+  {
+    "question": "Is Buffalo Paleo?",
+    "answer": "yes"
+  },
+  {
+    "question": "Is Bulgur Wheat Paleo?",
+    "answer": "no"
+  },
+  {
+    "question": "Is Butter Paleo?",
+    "answer": "yes"
+  },
+  {
+    "question": "Is Buttermilk Paleo?",
+    "answer": "yes"
+  },
+  {
+    "question": "Is Butternut Squash Paleo?",
+    "answer": "yes"
+  },
+  {
+    "question": "Is Cabbage Paleo?",
+    "answer": "yes"
+  },
+  {
+    "question": "Is Caffeine Paleo?",
+    "answer": "yes"
+  },
+  {
+    "question": "Is Cake Paleo?",
+    "answer": "no"
+  },
+  {
+    "question": "Is Camel Meat Paleo?",
+    "answer": "yes"
+  },
+  {
+    "question": "Is Candy Paleo?",
+    "answer": "no"
+  },
+  {
+    "question": "Is Canola Oil Paleo?",
+    "answer": "no"
+  },
+  {
+    "question": "Is Cantaloupe Paleo?",
+    "answer": "yes"
+  },
+  {
+    "question": "Is Caramel Paleo?",
+    "answer": "no"
+  },
+  {
+    "question": "Is Caraway Paleo?",
+    "answer": "yes"
+  },
+  {
+    "question": "Is Cardamom Paleo?",
+    "answer": "yes"
+  },
+  {
+    "question": "Is Carob Paleo?",
+    "answer": "yes"
+  },
+  {
+    "question": "Is Carp Paleo?",
+    "answer": "yes"
+  },
+  {
+    "question": "Is Carrageenan Paleo?",
+    "answer": "no"
+  },
+  {
+    "question": "Is Cassava Flour Paleo?",
+    "answer": "yes"
+  },
+  {
+    "question": "Is Cassava Paleo?",
+    "answer": "yes"
+  },
+  {
+    "question": "Is Catfish Paleo?",
+    "answer": "yes"
+  },
+  {
+    "question": "Is Cauliflower Paleo?",
+    "answer": "yes"
+  },
+  {
+    "question": "Is Cayenne Pepper Paleo?",
+    "answer": "yes"
+  },
+  {
+    "question": "Is Celeriac Paleo?",
+    "answer": "yes"
+  },
+  {
+    "question": "Is Celery Paleo?",
+    "answer": "yes"
+  },
+  {
+    "question": "Is Celery Root Paleo?",
+    "answer": "yes"
+  },
+  {
+    "question": "Is Celery Salt Paleo?",
+    "answer": "yes"
+  },
+  {
+    "question": "Is Celery Seed Paleo?",
+    "answer": "yes"
+  },
+  {
+    "question": "Is Cereal Paleo?",
+    "answer": "no"
+  },
+  {
+    "question": "Is Chai Tea Paleo?",
+    "answer": "yes"
+  },
+  {
+    "question": "Is Champagne Paleo?",
+    "answer": "maybe"
+  },
+  {
+    "question": "Is Champagne Vinegar Paleo?",
+    "answer": "yes"
+  },
+  {
+    "question": "Is Chard Paleo?",
+    "answer": "yes"
+  },
+  {
+    "question": "Is Chayote Squash Paleo?",
+    "answer": "yes"
+  },
+  {
+    "question": "Is Cheese Paleo?",
+    "answer": "maybe"
+  },
+  {
+    "question": "Is Chervil Paleo?",
+    "answer": "yes"
+  },
+  {
+    "question": "Is Chicken Paleo?",
+    "answer": "yes"
+  },
+  {
+    "question": "Is Chicory Paleo?",
+    "answer": "yes"
+  },
+  {
+    "question": "Is Chili Paleo?",
+    "answer": "maybe"
+  },
+  {
+    "question": "Is Chili Powder Paleo?",
+    "answer": "yes"
+  },
+  {
+    "question": "Is Chipotle Powder Paleo?",
+    "answer": "yes"
+  },
+  {
+    "question": "Is Chipotle Salt Paleo?",
+    "answer": "yes"
+  },
+  {
+    "question": "Is Chocolate Milk Paleo?",
+    "answer": "no"
+  },
+  {
+    "question": "Is Chocolate Paleo?",
+    "answer": "yes"
+  },
+  {
+    "question": "Is Chorizo Paleo?",
+    "answer": "yes"
+  },
+  {
+    "question": "Is Cilantro Paleo?",
+    "answer": "yes"
+  },
+  {
+    "question": "Is Cinnamon Paleo?",
+    "answer": "yes"
+  },
+  {
+    "question": "Is Cocoa Butter Paleo?",
+    "answer": "yes"
+  },
+  {
+    "question": "Is Cocoa Mass Paleo?",
+    "answer": "yes"
+  },
+  {
+    "question": "Is Cocoa Powder Paleo?",
+    "answer": "yes"
+  },
+  {
+    "question": "Is Coconut Butter Paleo?",
+    "answer": "yes"
+  },
+  {
+    "question": "Is Coconut Cream Paleo?",
+    "answer": "yes"
+  },
+  {
+    "question": "Is Coconut Flour Paleo?",
+    "answer": "yes"
+  },
+  {
+    "question": "Is Coconut Milk Paleo?",
+    "answer": "yes"
+  },
+  {
+    "question": "Is Coconut Oil Paleo?",
+    "answer": "yes"
+  },
+  {
+    "question": "Is Coconut Paleo?",
+    "answer": "yes"
+  },
+  {
+    "question": "Is Coconut Sugar Paleo?",
+    "answer": "yes"
+  },
+  {
+    "question": "Is Coconut Water Paleo?",
+    "answer": "yes"
+  },
+  {
+    "question": "Is Cod Liver Oil Paleo?",
+    "answer": "yes"
+  },
+  {
+    "question": "Is Cod Paleo?",
+    "answer": "yes"
+  },
+  {
+    "question": "Is Coffee Paleo?",
+    "answer": "yes"
+  },
+  {
+    "question": "Is Coriander Paleo?",
+    "answer": "yes"
+  },
+  {
+    "question": "Is Corn Flour Paleo?",
+    "answer": "no"
+  },
+  {
+    "question": "Is Corn Oil Paleo?",
+    "answer": "no"
+  },
+  {
+    "question": "Is Corn Paleo?",
+    "answer": "no"
+  },
+  {
+    "question": "Is Corn Starch Paleo?",
+    "answer": "no"
+  },
+  {
+    "question": "Is Cornmeal Paleo?",
+    "answer": "no"
+  },
+  {
+    "question": "Is Cottonseed Oil Paleo?",
+    "answer": "no"
+  },
+  {
+    "question": "Is Cottonseed Paleo?",
+    "answer": "no"
+  },
+  {
+    "question": "Is Couscous Paleo?",
+    "answer": "no"
+  },
+  {
+    "question": "Is Crab Paleo?",
+    "answer": "yes"
+  },
+  {
+    "question": "Is Cream Cheese Paleo?",
+    "answer": "maybe"
+  },
+  {
+    "question": "Is Cream of Tartar Paleo?",
+    "answer": "yes"
+  },
+  {
+    "question": "Is Cream Paleo?",
+    "answer": "maybe"
+  },
+  {
+    "question": "Is Crème Brûlée Paleo?",
+    "answer": "maybe"
+  },
+  {
+    "question": "Is Crème Caramel Paleo?",
+    "answer": "maybe"
+  },
+  {
+    "question": "Is Crème Fraîche Paleo?",
+    "answer": "maybe"
+  },
+  {
+    "question": "Is Culantro Paleo?",
+    "answer": "yes"
+  },
+  {
+    "question": "Is Cumin Paleo?",
+    "answer": "yes"
+  },
+  {
+    "question": "Is Curry Powder Paleo?",
+    "answer": "yes"
+  },
+  {
+    "question": "Is Custard Paleo?",
+    "answer": "maybe"
+  },
+  {
+    "question": "Is Dairy Paleo?",
+    "answer": "maybe"
+  },
+  {
+    "question": "Is Dark Chocolate Paleo?",
+    "answer": "yes"
+  },
+  {
+    "question": "Is Desiccated Coconut Paleo?",
+    "answer": "yes"
+  },
+  {
+    "question": "Is Diet Pop Paleo?",
+    "answer": "no"
+  },
+  {
+    "question": "Is Diet Soda Paleo?",
+    "answer": "no"
+  },
+  {
+    "question": "Is Dill Seed Paleo?",
+    "answer": "yes"
+  },
+  {
+    "question": "Is Dill Weed Paleo?",
+    "answer": "yes"
+  },
+  {
+    "question": "Is Dragon Fruit Paleo?",
+    "answer": "yes"
+  },
+  {
+    "question": "Is Duck Fat Paleo?",
+    "answer": "yes"
+  },
+  {
+    "question": "Is Duck Paleo?",
+    "answer": "yes"
+  },
+  {
+    "question": "Is Dumpling Squash Paleo?",
+    "answer": "yes"
+  },
+  {
+    "question": "Is Edamame Paleo?",
+    "answer": "maybe"
+  },
+  {
+    "question": "Is Eggnog Paleo?",
+    "answer": "maybe"
+  },
+  {
+    "question": "Is Eggplant Paleo?",
+    "answer": "yes"
+  },
+  {
+    "question": "Is Elk Paleo?",
+    "answer": "yes"
+  },
+  {
+    "question": "Is Endive Paleo?",
+    "answer": "yes"
+  },
+  {
+    "question": "Is Escarole Paleo?",
+    "answer": "yes"
+  },
+  {
+    "question": "Is Ezekiel Bread Paleo?",
+    "answer": "no"
+  },
+  {
+    "question": "Is Fennel Paleo?",
+    "answer": "yes"
+  },
+  {
+    "question": "Is Fenugreek Paleo?",
+    "answer": "yes"
+  },
+  {
+    "question": "Is Fermented Soy Paleo?",
+    "answer": "no"
+  },
+  {
+    "question": "Is Fish Paleo?",
+    "answer": "yes"
+  },
+  {
+    "question": "Is Fish Roe Paleo?",
+    "answer": "yes"
+  },
+  {
+    "question": "Is Fish Sauce Paleo?",
+    "answer": "yes"
+  },
+  {
+    "question": "Is Flax Seed Meal Paleo?",
+    "answer": "yes"
+  },
+  {
+    "question": "Is Flax Seed Oil Paleo?",
+    "answer": "maybe"
+  },
+  {
+    "question": "Is Flour Paleo?",
+    "answer": "no"
+  },
+  {
+    "question": "Is Frisee Paleo?",
+    "answer": "yes"
+  },
+  {
+    "question": "Is Frosting Paleo?",
+    "answer": "no"
+  },
+  {
+    "question": "Is Frozen Yogurt Paleo?",
+    "answer": "no"
+  },
+  {
+    "question": "Is Fruit Paleo?",
+    "answer": "yes"
+  },
+  {
+    "question": "Is Fudge Paleo?",
+    "answer": "no"
+  },
+  {
+    "question": "Is Galangal Paleo?",
+    "answer": "yes"
+  },
+  {
+    "question": "Is Garam Masala Paleo?",
+    "answer": "yes"
+  },
+  {
+    "question": "Is Garlic Paleo?",
+    "answer": "yes"
+  },
+  {
+    "question": "Is Garlic Powder Paleo?",
+    "answer": "yes"
+  },
+  {
+    "question": "Is Garlic Salt Paleo?",
+    "answer": "yes"
+  },
+  {
+    "question": "Is Gelatin Paleo?",
+    "answer": "yes"
+  },
+  {
+    "question": "Is Gelato Paleo?",
+    "answer": "no"
+  },
+  {
+    "question": "Is Ghee Paleo?",
+    "answer": "yes"
+  },
+  {
+    "question": "Is Giardiniera Paleo?",
+    "answer": "yes"
+  },
+  {
+    "question": "Is Gin Paleo?",
+    "answer": "no"
+  },
+  {
+    "question": "Is Ginger Paleo?",
+    "answer": "yes"
+  },
+  {
+    "question": "Is Gizzard Paleo?",
+    "answer": "yes"
+  },
+  {
+    "question": "Is Gluten Paleo?",
+    "answer": "no"
+  },
+  {
+    "question": "Is Glycomaize Paleo?",
+    "answer": "no"
+  },
+  {
+    "question": "Is Goat Fat Paleo?",
+    "answer": "yes"
+  },
+  {
+    "question": "Is Goat Milk Paleo?",
+    "answer": "maybe"
+  },
+  {
+    "question": "Is Goat Paleo?",
+    "answer": "yes"
+  },
+  {
+    "question": "Is Goat Whey Protein Paleo?",
+    "answer": "maybe"
+  },
+  {
+    "question": "Is Goose Paleo?",
+    "answer": "yes"
+  },
+  {
+    "question": "Is Grape Seed Oil Paleo?",
+    "answer": "no"
+  },
+  {
+    "question": "Is Grapefruit Paleo?",
+    "answer": "yes"
+  },
+  {
+    "question": "Is Green Cabbage Paleo?",
+    "answer": "yes"
+  },
+  {
+    "question": "Is Green Tea Paleo?",
+    "answer": "yes"
+  },
+  {
+    "question": "Is Grouper Paleo?",
+    "answer": "yes"
+  },
+  {
+    "question": "Is Guar Gum Paleo?",
+    "answer": "yes"
+  },
+  {
+    "question": "Is Habanero Paleo?",
+    "answer": "yes"
+  },
+  {
+    "question": "Is Halibut Paleo?",
+    "answer": "yes"
+  },
+  {
+    "question": "Is Ham Paleo?",
+    "answer": "yes"
+  },
+  {
+    "question": "Is Hard Cider Paleo?",
+    "answer": "maybe"
+  },
+  {
+    "question": "Is Harissa Paleo?",
+    "answer": "yes"
+  },
+  {
+    "question": "Is Heart Paleo?",
+    "answer": "yes"
+  },
+  {
+    "question": "Is Hemp Oil Paleo?",
+    "answer": "no"
+  },
+  {
+    "question": "Is Hemp Paleo?",
+    "answer": "yes"
+  },
+  {
+    "question": "Is Herbal Tea Paleo?",
+    "answer": "yes"
+  },
+  {
+    "question": "Is Herbes de Provence Paleo?",
+    "answer": "yes"
+  },
+  {
+    "question": "Is Herring Paleo?",
+    "answer": "yes"
+  },
+  {
+    "question": "Is Hominy Paleo?",
+    "answer": "no"
+  },
+  {
+    "question": "Is Honey Paleo?",
+    "answer": "maybe"
+  },
+  {
+    "question": "Is Honeydew Paleo?",
+    "answer": "yes"
+  },
+  {
+    "question": "Is Horseradish Paleo?",
+    "answer": "yes"
+  },
+  {
+    "question": "Is Hot Chocolate Paleo?",
+    "answer": "no"
+  },
+  {
+    "question": "Is Hot Cocoa Paleo?",
+    "answer": "no"
+  },
+  {
+    "question": "Is Hot Fudge Paleo?",
+    "answer": "no"
+  },
+  {
+    "question": "Is Hot Sauce Paleo?",
+    "answer": "maybe"
+  },
+  {
+    "question": "Is Hummus Paleo?",
+    "answer": "no"
+  },
+  {
+    "question": "Is Ice Cream Paleo?",
+    "answer": "no"
+  },
+  {
+    "question": "Is Icing Paleo?",
+    "answer": "no"
+  },
+  {
+    "question": "Is Italian Seasoning Paleo?",
+    "answer": "yes"
+  },
+  {
+    "question": "Is Jam Paleo?",
+    "answer": "maybe"
+  },
+  {
+    "question": "Is Jelly Paleo?",
+    "answer": "no"
+  },
+  {
+    "question": "Is Jicama Paleo?",
+    "answer": "yes"
+  },
+  {
+    "question": "Is Juice Paleo?",
+    "answer": "no"
+  },
+  {
+    "question": "Is Juniper Berry Paleo?",
+    "answer": "yes"
+  },
+  {
+    "question": "Is Kabocha Squash Paleo?",
+    "answer": "yes"
+  },
+  {
+    "question": "Is Kale Paleo?",
+    "answer": "yes"
+  },
+  {
+    "question": "Is Kefir Paleo?",
+    "answer": "yes"
+  },
+  {
+    "question": "Is Ketchup Paleo?",
+    "answer": "maybe"
+  },
+  {
+    "question": "Is Kimchi Paleo?",
+    "answer": "yes"
+  },
+  {
+    "question": "Is Kohlrabi Paleo?",
+    "answer": "yes"
+  },
+  {
+    "question": "Is Kombucha Tea Paleo?",
+    "answer": "yes"
+  },
+  {
+    "question": "Is Kremelta Paleo?",
+    "answer": "no"
+  },
+  {
+    "question": "Is Lamb Paleo?",
+    "answer": "yes"
+  },
+  {
+    "question": "Is Lavender Paleo?",
+    "answer": "yes"
+  },
+  {
+    "question": "Is Lemon Verbena Paleo?",
+    "answer": "yes"
+  },
+  {
+    "question": "Is Lemongrass Paleo?",
+    "answer": "yes"
+  },
+  {
+    "question": "Is Lettuce Paleo?",
+    "answer": "yes"
+  },
+  {
+    "question": "Is Linseed Oil Paleo?",
+    "answer": "maybe"
+  },
+  {
+    "question": "Is Liver Paleo?",
+    "answer": "yes"
+  },
+  {
+    "question": "Is Lobster Paleo?",
+    "answer": "yes"
+  },
+  {
+    "question": "Is Macadamia Nut Oil Paleo?",
+    "answer": "yes"
+  },
+  {
+    "question": "Is Mace Paleo?",
+    "answer": "yes"
+  },
+  {
+    "question": "Is Mackerel Paleo?",
+    "answer": "yes"
+  },
+  {
+    "question": "Is Mahi Mahi Paleo?",
+    "answer": "yes"
+  },
+  {
+    "question": "Is Malanga Paleo?",
+    "answer": "yes"
+  },
+  {
+    "question": "Is Malt Paleo?",
+    "answer": "no"
+  },
+  {
+    "question": "Is Malt Vinegar Paleo?",
+    "answer": "no"
+  },
+  {
+    "question": "Is Maple Syrup Paleo?",
+    "answer": "maybe"
+  },
+  {
+    "question": "Is Margarine Paleo?",
+    "answer": "no"
+  },
+  {
+    "question": "Is Marjoram Paleo?",
+    "answer": "yes"
+  },
+  {
+    "question": "Is Marmalade Paleo?",
+    "answer": "no"
+  },
+  {
+    "question": "Is Marshmallow Root Paleo?",
+    "answer": "yes"
+  },
+  {
+    "question": "Is Mascarpone Paleo?",
+    "answer": "maybe"
+  },
+  {
+    "question": "Is Matcha Green Tea Paleo?",
+    "answer": "yes"
+  },
+  {
+    "question": "Is Mayonnaise Paleo?",
+    "answer": "yes"
+  },
+  {
+    "question": "Is MCT Oil Paleo?",
+    "answer": "yes"
+  },
+  {
+    "question": "Is Mead Paleo?",
+    "answer": "maybe"
+  },
+  {
+    "question": "Is Mezcal Paleo?",
+    "answer": "maybe"
+  },
+  {
+    "question": "Is Milk Chocolate Paleo?",
+    "answer": "maybe"
+  },
+  {
+    "question": "Is Milk Paleo?",
+    "answer": "maybe"
+  },
+  {
+    "question": "Is Millet Paleo?",
+    "answer": "no"
+  },
+  {
+    "question": "Is Mint Extract Paleo?",
+    "answer": "yes"
+  },
+  {
+    "question": "Is Mint Paleo?",
+    "answer": "yes"
+  },
+  {
+    "question": "Is Miso Paleo?",
+    "answer": "no"
+  },
+  {
+    "question": "Is Molasses Paleo?",
+    "answer": "maybe"
+  },
+  {
+    "question": "Is Moose Paleo?",
+    "answer": "yes"
+  },
+  {
+    "question": "Is MSG Paleo?",
+    "answer": "maybe"
+  },
+  {
+    "question": "Is Mustard Paleo?",
+    "answer": "yes"
+  },
+  {
+    "question": "Is Mutton Paleo?",
+    "answer": "yes"
+  },
+  {
+    "question": "Is Natto Paleo?",
+    "answer": "no"
+  },
+  {
+    "question": "Is Nori Paleo?",
+    "answer": "yes"
+  },
+  {
+    "question": "Is Nutmeg Paleo?",
+    "answer": "yes"
+  },
+  {
+    "question": "Is Nutritional Yeast Paleo?",
+    "answer": "yes"
+  },
+  {
+    "question": "Is Oatmeal Paleo?",
+    "answer": "no"
+  },
+  {
+    "question": "Is Octopus Paleo?",
+    "answer": "yes"
+  },
+  {
+    "question": "Is Offal Paleo?",
+    "answer": "yes"
+  },
+  {
+    "question": "Is Okra Paleo?",
+    "answer": "yes"
+  },
+  {
+    "question": "Is Olive Oil Paleo?",
+    "answer": "yes"
+  },
+  {
+    "question": "Is Onion Powder Paleo?",
+    "answer": "yes"
+  },
+  {
+    "question": "Is Oolong Tea Paleo?",
+    "answer": "yes"
+  },
+  {
+    "question": "Is Oregano Paleo?",
+    "answer": "yes"
+  },
+  {
+    "question": "Is Organ Meat Paleo?",
+    "answer": "yes"
+  },
+  {
+    "question": "Is Orzo Paleo?",
+    "answer": "no"
+  },
+  {
+    "question": "Is Ostrich Paleo?",
+    "answer": "yes"
+  },
+  {
+    "question": "Is Oxtail Paleo?",
+    "answer": "yes"
+  },
+  {
+    "question": "Is Palm Oil Paleo?",
+    "answer": "yes"
+  },
+  {
+    "question": "Is Palm Shortening Paleo?",
+    "answer": "yes"
+  },
+  {
+    "question": "Is Panko Paleo?",
+    "answer": "no"
+  },
+  {
+    "question": "Is Papaya Paleo?",
+    "answer": "yes"
+  },
+  {
+    "question": "Is Paprika Paleo?",
+    "answer": "yes"
+  },
+  {
+    "question": "Is Parsley Paleo?",
+    "answer": "yes"
+  },
+  {
+    "question": "Is Passion Fruit Paleo?",
+    "answer": "yes"
+  },
+  {
+    "question": "Is Pasta Paleo?",
+    "answer": "no"
+  },
+  {
+    "question": "Is Peanut Butter Paleo?",
+    "answer": "no"
+  },
+  {
+    "question": "Is Peanut Oil Paleo?",
+    "answer": "no"
+  },
+  {
+    "question": "Is Pectin Paleo?",
+    "answer": "yes"
+  },
+  {
+    "question": "Is Peppermint Paleo?",
+    "answer": "yes"
+  },
+  {
+    "question": "Is Pepperoni Paleo?",
+    "answer": "maybe"
+  },
+  {
+    "question": "Is Pheasant Paleo?",
+    "answer": "yes"
+  },
+  {
+    "question": "Is Pie Paleo?",
+    "answer": "no"
+  },
+  {
+    "question": "Is Pineapple Paleo?",
+    "answer": "yes"
+  },
+  {
+    "question": "Is Pita Bread Paleo?",
+    "answer": "no"
+  },
+  {
+    "question": "Is Pizza Dough Paleo?",
+    "answer": "no"
+  },
+  {
+    "question": "Is Plantain Flour Paleo?",
+    "answer": "yes"
+  },
+  {
+    "question": "Is Pop Paleo?",
+    "answer": "no"
+  },
+  {
+    "question": "Is Popcorn Paleo?",
+    "answer": "no"
+  },
+  {
+    "question": "Is Pork Paleo?",
+    "answer": "yes"
+  },
+  {
+    "question": "Is Port Wine Paleo?",
+    "answer": "maybe"
+  },
+  {
+    "question": "Is Potato Flour Paleo?",
+    "answer": "maybe"
+  },
+  {
+    "question": "Is Potato Starch Paleo?",
+    "answer": "maybe"
+  },
+  {
+    "question": "Is Prosciutto Paleo?",
+    "answer": "yes"
+  },
+  {
+    "question": "Is Psyllium Paleo?",
+    "answer": "maybe"
+  },
+  {
+    "question": "Is Pumpkin Paleo?",
+    "answer": "yes"
+  },
+  {
+    "question": "Is Pumpkin Pie Spice Paleo?",
+    "answer": "yes"
+  },
+  {
+    "question": "Is Purple Cabbage Paleo?",
+    "answer": "yes"
+  },
+  {
+    "question": "Is Quail Paleo?",
+    "answer": "yes"
+  },
+  {
+    "question": "Is Quiche Paleo?",
+    "answer": "no"
+  },
+  {
+    "question": "Is Quinoa Paleo?",
+    "answer": "no"
+  },
+  {
+    "question": "Is Quorn Paleo?",
+    "answer": "no"
+  },
+  {
+    "question": "Is Rabbit Paleo?",
+    "answer": "yes"
+  },
+  {
+    "question": "Is Radicchio Paleo?",
+    "answer": "yes"
+  },
+  {
+    "question": "Is Rapeseed Oil Paleo?",
+    "answer": "no"
+  },
+  {
+    "question": "Is Rapini Paleo?",
+    "answer": "yes"
+  },
+  {
+    "question": "Is Red Kuri Squash Paleo?",
+    "answer": "yes"
+  },
+  {
+    "question": "Is Red Wine Vinegar Paleo?",
+    "answer": "yes"
+  },
+  {
+    "question": "Is Rhubarb Paleo?",
+    "answer": "yes"
+  },
+  {
+    "question": "Is Rice Bran Oil Paleo?",
+    "answer": "no"
+  },
+  {
+    "question": "Is Rice Paleo?",
+    "answer": "maybe"
+  },
+  {
+    "question": "Is Rice Vinegar Paleo?",
+    "answer": "yes"
+  },
+  {
+    "question": "Is Romaine Lettuce Paleo?",
+    "answer": "yes"
+  },
+  {
+    "question": "Is Rooibos Paleo?",
+    "answer": "yes"
+  },
+  {
+    "question": "Is Rosemary Paleo?",
+    "answer": "yes"
+  },
+  {
+    "question": "Is Royal Jelly Paleo?",
+    "answer": "yes"
+  },
+  {
+    "question": "Is Rum Paleo?",
+    "answer": "no"
+  },
+  {
+    "question": "Is Rye Paleo?",
+    "answer": "no"
+  },
+  {
+    "question": "Is Safflower Oil Paleo?",
+    "answer": "no"
+  },
+  {
+    "question": "Is Saffron Paleo?",
+    "answer": "yes"
+  },
+  {
+    "question": "Is Sage Paleo?",
+    "answer": "yes"
+  },
+  {
+    "question": "Is Sake Paleo?",
+    "answer": "maybe"
+  },
+  {
+    "question": "Is Salmon Paleo?",
+    "answer": "yes"
+  },
+  {
+    "question": "Is Santa Claus Melon Paleo?",
+    "answer": "yes"
+  },
+  {
+    "question": "Is Sauerkraut Paleo?",
+    "answer": "yes"
+  },
+  {
+    "question": "Is Sausage Paleo?",
+    "answer": "maybe"
+  },
+  {
+    "question": "Is Schmaltz Paleo?",
+    "answer": "yes"
+  },
+  {
+    "question": "Is Scotch Bonnet Paleo?",
+    "answer": "yes"
+  },
+  {
+    "question": "Is Sea Salt Paleo?",
+    "answer": "yes"
+  },
+  {
+    "question": "Is Seafood Paleo?",
+    "answer": "yes"
+  },
+  {
+    "question": "Is Seaweed Paleo?",
+    "answer": "yes"
+  },
+  {
+    "question": "Is Semi-Sweet Chocolate Paleo?",
+    "answer": "yes"
+  },
+  {
+    "question": "Is Sesame Seed Oil Paleo?",
+    "answer": "maybe"
+  },
+  {
+    "question": "Is Sherbet Paleo?",
+    "answer": "no"
+  },
+  {
+    "question": "Is Sherry Paleo?",
+    "answer": "maybe"
+  },
+  {
+    "question": "Is Sherry Vinegar Paleo?",
+    "answer": "yes"
+  },
+  {
+    "question": "Is Shredded Coconut Paleo?",
+    "answer": "yes"
+  },
+  {
+    "question": "Is Shrimp Paleo?",
+    "answer": "yes"
+  },
+  {
+    "question": "Is Simple Syrup Paleo?",
+    "answer": "no"
+  },
+  {
+    "question": "Is Smoked Salmon Paleo?",
+    "answer": "yes"
+  },
+  {
+    "question": "Is Snapper Paleo?",
+    "answer": "yes"
+  },
+  {
+    "question": "Is Soda Paleo?",
+    "answer": "no"
+  },
+  {
+    "question": "Is Sorbet Paleo?",
+    "answer": "no"
+  },
+  {
+    "question": "Is Sour Cream Paleo?",
+    "answer": "maybe"
+  },
+  {
+    "question": "Is Soy Lecithin Paleo?",
+    "answer": "no"
+  },
+  {
+    "question": "Is Soy Milk Paleo?",
+    "answer": "no"
+  },
+  {
+    "question": "Is Soy Paleo?",
+    "answer": "no"
+  },
+  {
+    "question": "Is Soy Sauce Paleo?",
+    "answer": "no"
+  },
+  {
+    "question": "Is Soybean Oil Paleo?",
+    "answer": "no"
+  },
+  {
+    "question": "Is Spearmint Paleo?",
+    "answer": "yes"
+  },
+  {
+    "question": "Is Spelt Paleo?",
+    "answer": "no"
+  },
+  {
+    "question": "Is Spinach Paleo?",
+    "answer": "yes"
+  },
+  {
+    "question": "Is Spirulina Paleo?",
+    "answer": "yes"
+  },
+  {
+    "question": "Is Squab Paleo?",
+    "answer": "yes"
+  },
+  {
+    "question": "Is Squash Paleo?",
+    "answer": "yes"
+  },
+  {
+    "question": "Is Squid Paleo?",
+    "answer": "yes"
+  },
+  {
+    "question": "Is Star Anise Paleo?",
+    "answer": "yes"
+  },
+  {
+    "question": "Is Star Fruit Paleo?",
+    "answer": "yes"
+  },
+  {
+    "question": "Is Stevia Paleo?",
+    "answer": "yes"
+  },
+  {
+    "question": "Is Stock Paleo?",
+    "answer": "yes"
+  },
+  {
+    "question": "Is Suet Paleo?",
+    "answer": "yes"
+  },
+  {
+    "question": "Is Sugar Paleo?",
+    "answer": "no"
+  },
+  {
+    "question": "Is Summer Squash Paleo?",
+    "answer": "yes"
+  },
+  {
+    "question": "Is Sunflower Butter Paleo?",
+    "answer": "yes"
+  },
+  {
+    "question": "Is Sunflower Oil Paleo?",
+    "answer": "maybe"
+  },
+  {
+    "question": "Is Sushi Paleo?",
+    "answer": "yes"
+  },
+  {
+    "question": "Is Sweet Potato Flour Paleo?",
+    "answer": "yes"
+  },
+  {
+    "question": "Is Swiss Chard Paleo?",
+    "answer": "yes"
+  },
+  {
+    "question": "Is Tallow Paleo?",
+    "answer": "yes"
+  },
+  {
+    "question": "Is Tapioca Flour Paleo?",
+    "answer": "yes"
+  },
+  {
+    "question": "Is Tapioca Paleo?",
+    "answer": "yes"
+  },
+  {
+    "question": "Is Taro Paleo?",
+    "answer": "yes"
+  },
+  {
+    "question": "Is Tarragon Paleo?",
+    "answer": "yes"
+  },
+  {
+    "question": "Is Tea Paleo?",
+    "answer": "yes"
+  },
+  {
+    "question": "Is Tempeh Paleo?",
+    "answer": "no"
+  },
+  {
+    "question": "Is Tequila Paleo?",
+    "answer": "maybe"
+  },
+  {
+    "question": "Is Thyme Paleo?",
+    "answer": "yes"
+  },
+  {
+    "question": "Is Tilapia Paleo?",
+    "answer": "yes"
+  },
+  {
+    "question": "Is Tiramisu Paleo?",
+    "answer": "no"
+  },
+  {
+    "question": "Is Tisane Paleo?",
+    "answer": "yes"
+  },
+  {
+    "question": "Is Toast Paleo?",
+    "answer": "no"
+  },
+  {
+    "question": "Is Toffee Paleo?",
+    "answer": "no"
+  },
+  {
+    "question": "Is Tofu Paleo?",
+    "answer": "no"
+  },
+  {
+    "question": "Is Tomato Paste Paleo?",
+    "answer": "yes"
+  },
+  {
+    "question": "Is Tomato Sauce Paleo?",
+    "answer": "yes"
+  },
+  {
+    "question": "Is Tongue Paleo?",
+    "answer": "yes"
+  },
+  {
+    "question": "Is Trout Paleo?",
+    "answer": "yes"
+  },
+  {
+    "question": "Is Tuna Paleo?",
+    "answer": "yes"
+  },
+  {
+    "question": "Is Turkey Paleo?",
+    "answer": "yes"
+  },
+  {
+    "question": "Is Turmeric Paleo?",
+    "answer": "yes"
+  },
+  {
+    "question": "Is Unsweetened Chocolate Paleo?",
+    "answer": "yes"
+  },
+  {
+    "question": "Is V8 Paleo?",
+    "answer": "yes"
+  },
+  {
+    "question": "Is Vanilla Extract Paleo?",
+    "answer": "yes"
+  },
+  {
+    "question": "Is Veal Paleo?",
+    "answer": "yes"
+  },
+  {
+    "question": "Is Vegetable Broth Paleo?",
+    "answer": "yes"
+  },
+  {
+    "question": "Is Vegetable Oil Paleo?",
+    "answer": "no"
+  },
+  {
+    "question": "Is Vegetable Shortening Paleo?",
+    "answer": "no"
+  },
+  {
+    "question": "Is Venison Paleo?",
+    "answer": "yes"
+  },
+  {
+    "question": "Is Vermouth Paleo?",
+    "answer": "maybe"
+  },
+  {
+    "question": "Is Vinegar Paleo?",
+    "answer": "yes"
+  },
+  {
+    "question": "Is Vodka paleo?",
+    "answer": "no"
+  },
+  {
+    "question": "Is Walnut Oil Paleo?",
+    "answer": "yes"
+  },
+  {
+    "question": "Is Wasabi Paleo?",
+    "answer": "yes"
+  },
+  {
+    "question": "Is Watercress Paleo?",
+    "answer": "yes"
+  },
+  {
+    "question": "Is Watermelon Paleo?",
+    "answer": "yes"
+  },
+  {
+    "question": "Is Wheat Bran Paleo?",
+    "answer": "no"
+  },
+  {
+    "question": "Is Wheat Germ Oil Paleo?",
+    "answer": "no"
+  },
+  {
+    "question": "Is Wheat Germ Paleo?",
+    "answer": "no"
+  },
+  {
+    "question": "Is Wheat Paleo?",
+    "answer": "no"
+  },
+  {
+    "question": "Is Wheatgrass Paleo?",
+    "answer": "yes"
+  },
+  {
+    "question": "Is Whey Protein Paleo?",
+    "answer": "maybe"
+  },
+  {
+    "question": "Is Whipped Cream Paleo?",
+    "answer": "maybe"
+  },
+  {
+    "question": "Is Whiskey Paleo?",
+    "answer": "maybe"
+  },
+  {
+    "question": "Is White Chocolate Paleo?",
+    "answer": "no"
+  },
+  {
+    "question": "Is White Tea Paleo?",
+    "answer": "yes"
+  },
+  {
+    "question": "Is Wine Paleo?",
+    "answer": "maybe"
+  },
+  {
+    "question": "Is Xanthan Gum Paleo?",
+    "answer": "maybe"
+  },
+  {
+    "question": "Is Yeast Paleo?",
+    "answer": "yes"
+  },
+  {
+    "question": "Is Yerba Mate Paleo?",
+    "answer": "yes"
+  },
+  {
+    "question": "Is Yogurt Paleo?",
+    "answer": "maybe"
+  },
+  {
+    "question": "Is Yuca Paleo?",
+    "answer": "yes"
+  },
+  {
+    "question": "Is Za’atar Paleo?",
+    "answer": "yes"
+  },
+  {
+    "question": "Is Zucchini Paleo?",
+    "answer": "yes"
+  }
+]

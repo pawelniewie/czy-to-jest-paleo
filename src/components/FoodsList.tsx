@@ -32,7 +32,8 @@ class FoodsList extends React.Component<Props, any> {
     });
 
     var divClass = classNames({
-      'food-list': true
+      'food-list': true,
+      'short': list.length < 10
     });
 
     return (
