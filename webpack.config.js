@@ -2,7 +2,8 @@
 'use strict';
 
 var path = require('path');
-// var webpack = require('webpack');
+var StringReplacePlugin = require("string-replace-webpack-plugin");
+var foods = require('./src/stores/foods.json');
 
 module.exports = {
   cache: true,
@@ -25,6 +26,18 @@ module.exports = {
   },
   module: {
     loaders: [{
+      test: /FoodsStore.ts$/,
+      loader: StringReplacePlugin.replace({
+        replacements: [
+          {
+            pattern: /\['@foods.json'\]/ig,
+            replacement: function(match, p1, offset, string) {
+              return JSON.stringify(foods, undefined, '\t');
+            }
+          }
+        ]
+      })
+    }, {
       test: /\.ts(x?)$/,
       exclude: /node_modules/,
       loader: 'babel-loader!ts-loader'
@@ -35,6 +48,7 @@ module.exports = {
     }]
   },
   plugins: [
+    new StringReplacePlugin()
   ],
   resolve: {
     // Add `.ts` and `.tsx` as a resolvable extension.

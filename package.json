@@ -58,6 +58,7 @@
     "react-addons-pure-render-mixin": "^0.14.3",
     "react-dom": "^0.14.3",
     "react-mixin": "^3.0.3",
+    "string-replace-webpack-plugin": "0.0.3",
     "ts-loader": "^0.6.0",
     "tsd": "^0.6.5",
     "typescript": "^1.6.2",
