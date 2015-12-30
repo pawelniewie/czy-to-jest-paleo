@@ -24,7 +24,7 @@ class FoodsList extends React.Component<Props, any> {
 
     var list = foods.filter(function(food) {
       if (food.question === undefined) { debugger; };
-      return whatFood === '' || food.question.toLowerCase().indexOf(whatFood.toLowerCase()) > 0;
+      return whatFood === '' || food.question.toLowerCase().indexOf(whatFood.toLowerCase()) >= 0;
     }).map((food) => {
       return (
           <Food food={food}/>
