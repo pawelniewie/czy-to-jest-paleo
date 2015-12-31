@@ -13,3 +13,4 @@ deploy:
     - ematsen/gh-pages:
         token: $GITHUB_TOKEN
         path: dist
+        domain: czytojest.paleomenu.pl
