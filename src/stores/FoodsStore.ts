@@ -13,7 +13,8 @@ class FoodsStore extends FluxStore<FoodsState> {
         .map((food: RawFoodDescription) => ({
           answer: Answer[food.answer],
           question: food.question
-      }));
+        }))
+        .sort((a, b) => (a.question.localeCompare(b.question)));
 
       return { whatFood: '', foods: foods };
     });
