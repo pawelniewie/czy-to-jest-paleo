@@ -3,6 +3,7 @@
 var gulp = require('gulp');
 var inject = require('gulp-inject');
 var glob = require('glob');
+var ga = require('gulp-ga');
 
 function injectIndex(options) {
   function run() {
@@ -12,6 +13,10 @@ function injectIndex(options) {
       './dist/scripts/vendor*.js',
       './dist/scripts/main*.js'
     ], { read: false });
+
+    if (!options.shouldWatch) {
+      target = target.pipe(ga({url: 'auto', uid: 'UA-39384386-2', sendPageView: true, anonymizeIp: false, minify: true}));
+    }
 
     return target
       .pipe(inject(sources, { ignorePath: '/dist/', addRootSlash: false, removeTags: true }))
