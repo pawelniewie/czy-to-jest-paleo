@@ -101,35 +101,43 @@
   },
   {
     "question": "Czy Jeżyny są Paleo?",
-    "answer": "Yes"
+    "answer": "Yes",
+    "todo": false
   },
   {
     "question": "Czy Borówki są Paleo?",
-    "answer": "Yes"
+    "answer": "Yes",
+    "todo": false
   },
   {
     "question": "Czy Kości są Paleo?",
-    "answer": "Yes"
+    "answer": "Yes",
+    "todo": false
   },
   {
     "question": "Czy Orzechy Brazylijskie są Paleo?",
-    "answer": "Yes"
+    "answer": "Yes",
+    "todo": false
   },
   {
     "question": "Czy Nasiona Gorczycy są Paleo?",
-    "answer": "Yes"
+    "answer": "Yes",
+    "todo": false
   },
   {
     "question": "Czy Piernik jest Paleo?",
-    "answer": "No"
+    "answer": "No",
+    "todo": false
   },
   {
     "question": "Czy Brukselka jest Paleo?",
-    "answer": "Yes"
+    "answer": "Yes",
+    "todo": false
   },
   {
-    "question": "Cacao Nibs są Paleo?",
-    "answer": "Yes"
+    "question": "Czy Nasiona Kakaowca są Paleo?",
+    "answer": "Yes",
+    "todo": false
   },
   {
     "question": "Czy Cape Agrest są Paleo?",
