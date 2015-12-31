@@ -25,9 +25,9 @@ class Food extends React.Component<Props, any> {
     });
 
     var spanText = classNames({
-      'Yes': food.answer == Foods.Answer.Yes,
-      'Maybe': food.answer == Foods.Answer.Maybe,
-      'No': food.answer == Foods.Answer.No
+      'Tak': food.answer == Foods.Answer.Yes,
+      'Być może': food.answer == Foods.Answer.Maybe,
+      'Nie': food.answer == Foods.Answer.No
     })
 
     return (
