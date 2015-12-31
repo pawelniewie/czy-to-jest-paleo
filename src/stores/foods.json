@@ -761,20 +761,24 @@
     "todo": false
   },
   {
-    "question": "Czy suszone pomidory są Paleo?",
-    "answer": "Yes"
+    "question": "Czy Suszone Pomidory są Paleo?",
+    "answer": "Yes",
+    "todo": false
   },
   {
-    "question": "Czy Nasiona słonecznika są Paleo?",
-    "answer": "Yes"
+    "question": "Czy Nasiona Słonecznika są Paleo?",
+    "answer": "Yes",
+    "todo": false
   },
   {
-    "question": "Czy słodkie frytki ziemniaczane są Paleo?",
-    "answer": "Maybe"
+    "question": "Czy Słodkie Frytki Ziemniaczane są Paleo?",
+    "answer": "Maybe",
+    "todo": false
   },
   {
-    "question": "Czy Sweet Potatoes są Paleo?",
-    "answer": "Yes"
+    "question": "Czy Słodkie Ziemniaki są Paleo?",
+    "answer": "Yes",
+    "todo": false
   },
   {
     "question": "Czy Tacos są Paleo?",
@@ -946,20 +950,24 @@
     "answer": "Yes"
   },
   {
-    "question": "Czy rukolą są Paleo?",
-    "answer": "Yes"
+    "question": "Czy Rukola jest Paleo?",
+    "answer": "Yes",
+    "todo": false
   },
   {
     "question": "Czy Szparagi są Paleo?",
-    "answer": "Yes"
+    "answer": "Yes",
+    "todo": false
   },
   {
-    "question": "Czy Olej z awokado jest Paleo?",
-    "answer": "Yes"
+    "question": "Czy Olej z Awokado jest Paleo?",
+    "answer": "Yes",
+    "todo": false
   },
   {
-    "question": "Czy Bacon Fat / Smalec są Paleo?",
-    "answer": "Yes"
+    "question": "Czy Smalec jest Paleo?",
+    "answer": "Yes",
+    "todo": false
   },
   {
     "question": "Czy Bacon są Paleo?",
@@ -1010,16 +1018,19 @@
     "answer": "Yes"
   },
   {
-    "question": "Czy Wołowina są Paleo?",
-    "answer": "Yes"
+    "question": "Czy Wołowina jest Paleo?",
+    "answer": "Yes",
+    "todo": false
   },
   {
-    "question": "Czy Piwo są Paleo?",
-    "answer": "No"
+    "question": "Czy Piwo jest Paleo?",
+    "answer": "No",
+    "todo": false
   },
   {
-    "question": "Czy Bison są Paleo?",
-    "answer": "Yes"
+    "question": "Czy Bizon jest Paleo?",
+    "answer": "Yes",
+    "todo": false
   },
   {
     "question": "Czy Bittersweet Czekolada są Paleo?",
@@ -1034,8 +1045,9 @@
     "answer": "Yes"
   },
   {
-    "question": "Czy Dzik są Paleo?",
-    "answer": "Yes"
+    "question": "Czy Dzik jest Paleo?",
+    "answer": "Yes",
+    "todo": false
   },
   {
     "question": "Czy Bok Choy są Paleo?",
@@ -1054,12 +1066,14 @@
     "answer": "Yes"
   },
   {
-    "question": "Czy Brandy są Paleo?",
-    "answer": "Maybe"
+    "question": "Czy Brandy jest Paleo?",
+    "answer": "Maybe",
+    "todo": false
   },
   {
-    "question": "Czy Chleb są Paleo?",
-    "answer": "No"
+    "question": "Czy Chleb jest Paleo?",
+    "answer": "No",
+    "todo": false
   },
   {
     "question": "Czy solanki są Paleo?",
@@ -1067,15 +1081,17 @@
   },
   {
     "question": "Czy Brokuły są Paleo?",
-    "answer": "Yes"
+    "answer": "Yes",
+    "todo": false
   },
   {
     "question": "Czy Brown Sugar są Paleo?",
     "answer": "No"
   },
   {
-    "question": "Czy Gryka są Paleo?",
-    "answer": "No"
+    "question": "Czy Gryka jest Paleo?",
+    "answer": "No",
+    "todo": false
   },
   {
     "question": "Czy Buffalo są Paleo?",
@@ -1086,20 +1102,23 @@
     "answer": "No"
   },
   {
-    "question": "Czy Masło są Paleo?",
-    "answer": "Yes"
+    "question": "Czy Masło jest Paleo?",
+    "answer": "Yes",
+    "todo": false
   },
   {
-    "question": "Czy Maślanka są Paleo?",
-    "answer": "Yes"
+    "question": "Czy Maślanka jest Paleo?",
+    "answer": "Yes",
+    "todo": false
   },
   {
     "question": "Czy piżmowa są Paleo?",
     "answer": "Yes"
   },
   {
-    "question": "Czy Kapusta są Paleo?",
-    "answer": "Yes"
+    "question": "Czy Kapusta jest Paleo?",
+    "answer": "Yes",
+    "todo": false
   },
   {
     "question": "Czy Kofeina są Paleo?",
@@ -1115,7 +1134,8 @@
   },
   {
     "question": "Czy Cukierki są Paleo?",
-    "answer": "No"
+    "answer": "No",
+    "todo": false
   },
   {
     "question": "Czy olej rzepakowy są Paleo?",
@@ -1130,8 +1150,9 @@
     "answer": "No"
   },
   {
-    "question": "Czy Kminek są Paleo?",
-    "answer": "Yes"
+    "question": "Czy Kminek jest Paleo?",
+    "answer": "Yes",
+    "todo": false
   },
   {
     "question": "Czy Kardamon są Paleo?",
