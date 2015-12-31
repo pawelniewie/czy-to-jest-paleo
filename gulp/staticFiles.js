@@ -7,7 +7,7 @@ var targets = [
   //{ description: 'FONTS', src: './fonts/*', dest: './dist/fonts' },
   // { description: 'INDEX', src: './src/index.html', dest: './dist' },
   // { description: 'FAVICON', src: './favicon.ico', dest: './dist' },
-  // { description: 'IMAGES', src: './images/*', dest: './dist/images' },
+  { description: 'IMAGES', src: './images/*', dest: './dist/images' }
   // { description: 'ENVIRONMENT', src: './environment.json', dest: './dist' }
 ];
 
