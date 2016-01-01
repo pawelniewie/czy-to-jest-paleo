@@ -27,7 +27,7 @@ class FoodsStore extends FluxStore<FoodsState> {
   _onDispatch(action) {
     switch(action.type) {
       case FoodsActionTypes.FOOD_CHANGED:
-        ga || ga('send', 'event', 'Search', 'keyword', action.food);
+        ga && ga('send', 'event', 'Search', 'keyword', action.food);
         this._state.whatFood = action.food;
         this.emitChange();
         break;
