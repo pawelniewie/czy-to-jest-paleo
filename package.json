@@ -38,6 +38,7 @@
     "gulp-inject": "^3.0.0",
     "gulp-jshint": "^1.11.2",
     "gulp-notify": "^2.2.0",
+    "gulp-preprocess": "^2.0.0",
     "gulp-rev": "^6.0.1",
     "gulp-sass": "^2.1.0",
     "gulp-sourcemaps": "^1.5.2",

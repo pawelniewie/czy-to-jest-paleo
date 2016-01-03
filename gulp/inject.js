@@ -4,6 +4,7 @@ var gulp = require('gulp');
 var inject = require('gulp-inject');
 var glob = require('glob');
 var ga = require('gulp-ga');
+var preprocess = require('gulp-preprocess');
 
 function injectIndex(options) {
   function run() {
@@ -20,6 +21,7 @@ function injectIndex(options) {
 
     return target
       .pipe(inject(sources, { ignorePath: '/dist/', addRootSlash: false, removeTags: true }))
+      .pipe(preprocess({context: { NODE_ENV: process.env.NODE_ENV }}))
       .pipe(gulp.dest('./dist'));
   }
 
