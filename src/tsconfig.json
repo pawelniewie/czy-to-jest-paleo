@@ -22,6 +22,7 @@
         "../typings/classnames/classnames.d.ts",
         "../typings/tsd.d.ts",
         "../typings/react/react-addons-pure-render-mixin.d.ts",
+        "../typings/google.analytics/ga.d.ts",
         "actions/FoodsActions.ts",
         "components/App.tsx",
         "components/WhatFoodToFind.tsx",
