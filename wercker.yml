@@ -14,3 +14,18 @@ deploy:
         token: $GITHUB_TOKEN
         path: dist
         domain: czytojest.paleomenu.pl
+
+  digitalocean:
+    - mktemp:
+        envvar: PRIVATEKEY_PATH
+    - create-file:
+        name: write key
+        filename: $PRIVATEKEY_PATH
+        content: $SSH_PRIVATE
+        overwrite: true
+    - script:
+        name: transfer application
+        code: |
+          cd dist
+          ls -la
+          scp -r -i $PRIVATEKEY_PATH -o "StrictHostKeyChecking=no" . wercker@$DESTINATION:/var/www/czytojest.paleomenu.pl
