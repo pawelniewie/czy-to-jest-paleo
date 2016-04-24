@@ -1,0 +1,15 @@
+{
+  "name": "czy-to-jest-paleo",
+  "version": false,
+  "ambientDependencies": {
+    "jasmine": "github:DefinitelyTyped/DefinitelyTyped/jasmine/jasmine.d.ts#5e960679e6f9ae6ce905b1db0ad36fc189cd2eca",
+    "flux": "github:DefinitelyTyped/DefinitelyTyped/flux/flux.d.ts#5e960679e6f9ae6ce905b1db0ad36fc189cd2eca",
+    "node": "github:DefinitelyTyped/DefinitelyTyped/node/node.d.ts#5e960679e6f9ae6ce905b1db0ad36fc189cd2eca",
+    "react": "github:DefinitelyTyped/DefinitelyTyped/react/react.d.ts#5e960679e6f9ae6ce905b1db0ad36fc189cd2eca",
+    "react-dom": "github:DefinitelyTyped/DefinitelyTyped/react/react-dom.d.ts#5e960679e6f9ae6ce905b1db0ad36fc189cd2eca",
+    "react-addons-pure-render-mixin": "github:DefinitelyTyped/DefinitelyTyped/react/react-addons-pure-render-mixin.d.ts#5e960679e6f9ae6ce905b1db0ad36fc189cd2eca",
+    "react-mixin": "github:DefinitelyTyped/DefinitelyTyped/react-mixin/react-mixin.d.ts#5e960679e6f9ae6ce905b1db0ad36fc189cd2eca",
+    "classnames": "github:DefinitelyTyped/DefinitelyTyped/classnames/classnames.d.ts#5e960679e6f9ae6ce905b1db0ad36fc189cd2eca",
+    "ga": "github:DefinitelyTyped/DefinitelyTyped/google.analytics/ga.d.ts#5e960679e6f9ae6ce905b1db0ad36fc189cd2eca"
+  }
+}

@@ -68,6 +68,7 @@
     "webpack-notifier": "^1.2.1"
   },
   "dependencies": {
-    "classnames": "^2.2.1"
+    "classnames": "^2.2.1",
+    "typings": "^0.8.1"
   }
 }
