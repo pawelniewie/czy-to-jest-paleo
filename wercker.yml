@@ -4,7 +4,7 @@ build:
     - script:
         code: export NODE_ENV=development
     - npm-install
-    - samverschueren/tsd-install
+    - wend/typings-install
     - hgen/gulp:
         tasks: build
 
