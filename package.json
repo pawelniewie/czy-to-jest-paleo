@@ -1,7 +1,7 @@
 {
-  "name": "react-redux-starter-kit",
-  "version": "3.0.0-alpha.0",
-  "description": "Get started with React, Redux, and React-Router!",
+  "name": "czy-to-jest-paleo",
+  "version": "0.2.0",
+  "description": "Czy to jest Paleo?",
   "main": "index.js",
   "engines": {
     "node": ">=4.2.0",
@@ -72,9 +72,9 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/davezuko/react-redux-starter-kit.git"
+    "url": "git+https://github.com/pawelniewie/czy-to-jest-paleo.git"
   },
-  "author": "David Zukowski <david@zuko.me> (http://zuko.me)",
+  "author": "Pawel Niewiadomski",
   "license": "MIT",
   "dependencies": {
     "babel-cli": "^6.5.1",
@@ -128,6 +128,7 @@
     "chai-as-promised": "^5.1.0",
     "chai-enzyme": "^0.4.0",
     "cheerio": "^0.20.0",
+    "classnames": "^2.2.5",
     "codecov": "^1.0.1",
     "enzyme": "^2.0.0",
     "eslint": "^2.4.0",
@@ -147,7 +148,9 @@
     "mocha": "^2.2.5",
     "nodemon": "^1.8.1",
     "phantomjs-prebuilt": "^2.1.3",
+    "react-addons-pure-render-mixin": "^15.1.0",
     "react-addons-test-utils": "^15.0.0",
+    "react-mixin": "^3.0.5",
     "redbox-react": "^1.2.2",
     "sinon": "^1.17.3",
     "sinon-chai": "^2.8.0",

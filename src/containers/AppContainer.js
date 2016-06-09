@@ -8,10 +8,10 @@ class AppContainer extends React.Component {
     routes: PropTypes.object.isRequired,
     routerKey: PropTypes.number,
     store: PropTypes.object.isRequired
-  }
+  };
 
   render () {
-    const { history, routes, routerKey, store } = this.props
+    const { history, routes, routerKey, store } = this.props;
 
     return (
       <Provider store={store}>
