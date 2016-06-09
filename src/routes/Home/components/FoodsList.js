@@ -16,7 +16,7 @@ class FoodsList extends React.Component {
       return whatFood === '' || food.question.toLowerCase().indexOf(whatFood.toLowerCase()) >= 0;
     }).map((food) => {
       return (
-        <Food food={food}/>
+        <Food key={food.question} food={food}/>
       );
     });
 
