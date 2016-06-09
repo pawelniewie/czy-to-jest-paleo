@@ -1,5 +1,5 @@
 import { connect } from 'react-redux'
-// import { increment, doubleAsync } from '../modules/counter'
+import { findFood } from '../modules/home'
 
 /*  This is a container component. Notice it does not contain any JSX,
     nor does it import React. This component is **only** responsible for
@@ -13,8 +13,7 @@ import HomeView from '../components/HomeView'
     implementing our wrapper around increment; the component doesn't care   */
 
 const mapActionCreators = {
-  // increment: () => increment(1),
-  // doubleAsync
+  findFood
 };
 
 const mapStateToProps = (state) => ({

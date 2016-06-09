@@ -6,7 +6,7 @@ export const HomeView = (props) => (
   <div className="container-fluid">
     <div className="text-center">
       <h3>Czy to jest Paleo?</h3>
-      <WhatFoodToFind whatFood={ props.whatFood } />
+      <WhatFoodToFind whatFood={ props.whatFood } findFood={ props.findFood }/>
     </div>
     <FoodsList whatFood={ props.whatFood } foods={ props.foods } />
   </div>
@@ -15,8 +15,7 @@ export const HomeView = (props) => (
 HomeView.propTypes = {
   foods: PT.array.isRequired,
   whatFood: PT.string.isRequired,
-  doubleAsync: PT.func.isRequired,
-  increment: PT.func.isRequired
+  findFood: PT.func.isRequired
 };
 
 export default HomeView
