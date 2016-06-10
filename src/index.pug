@@ -30,6 +30,16 @@ html(lang='en')
     if __PROD__
       script(src='//d2wy8f7a9ursnm.cloudfront.net/bugsnag-2.min.js', data-apikey='60b7449413a4de618b83ebfc3961a020')
 
+    if __PROD__
+      script(type='text/javascript').
+        (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+        (i[r].q=i[r].q || []).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+        m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+        })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+        ga('create', 'UA-39384386-2', 'auto');
+        ga('send', 'pageview');
+
   body
     #root(style='height: 100%')
 
