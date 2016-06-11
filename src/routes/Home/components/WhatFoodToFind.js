@@ -1,7 +1,11 @@
-import * as React from 'react';
+import React, {PropTypes as PT} from 'react'
 import DebounceInput from 'react-debounce-input';
 
 class WhatFoodToFind extends React.Component {
+  static propTypes = {
+    findFood: PT.func.isRequired
+  };
+
   render() {
     return (
       <form className="form-inline what-to-find">

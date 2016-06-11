@@ -1,5 +1,6 @@
 import { connect } from 'react-redux'
 import { findFood } from '../modules/home'
+import { push } from 'react-router-redux'
 
 /*  This is a container component. Notice it does not contain any JSX,
     nor does it import React. This component is **only** responsible for
@@ -13,12 +14,13 @@ import HomeView from '../components/HomeView'
     implementing our wrapper around increment; the component doesn't care   */
 
 const mapActionCreators = {
-  findFood
+  findFood,
+  pushLocation: push
 };
 
-const mapStateToProps = (state) => ({
+const mapStateToProps = (state, ownProps) => ({
   foods: state.foods.foods,
-  whatFood: state.foods.whatFood
+  whatFood: ownProps.params.id
 });
 
 /*  Note: mapStateToProps is where you should use `reselect` to create selectors, ie:
