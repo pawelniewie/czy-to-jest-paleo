@@ -9,22 +9,9 @@ build:
 
 deploy:
   steps:
-    - ematsen/gh-pages:
-        token: $GITHUB_TOKEN
-        path: dist
-        domain: czytojest.paleomenu.pl
-
-  digitalocean:
-    - mktemp:
-        envvar: PRIVATEKEY_PATH
-    - create-file:
-        name: write key
-        filename: $PRIVATEKEY_PATH
-        content: $SSH_PRIVATE
-        overwrite: true
-    - script:
-        name: transfer application
-        code: |
-          cd dist
-          ls -la
-          scp -r -i $PRIVATEKEY_PATH -o "StrictHostKeyChecking=no" . wercker@$DESTINATION:/var/www/czytojest.paleomenu.pl
+    - s3sync:
+      key_id: $AWS_ACCESS_KEY_ID
+      key_secret: $AWS_SECRET_ACCESS_KEY
+      bucket_url: $AWS_BUCKET_URL
+      source_dir: dist/
+      opts: --acl-public --encoding=UTF-8
